@@ -1,6 +1,6 @@
 
 # Coniventes
-Contabiliza o número de parlamentares cujas respostas não foram processadas,  negam ou se abstêm frente a um processo de impeachment.
+Contabiliza o número de parlamentares cujas respostas não foram processadas,  negam ou se abstêm frente a um processo de impeachment. Clique no cartão de perfil de um parlamentar para enviar um pedido de manifestação.
 
 ## Legenda de Cores
 Parlamentares cujas respostas não foram processadas possuem borda em cinza escuro. Demais casos de conivência em vermelho escuro.
@@ -21,20 +21,26 @@ Posturas e medidas do líder do Poder Executivo do Governo Federal, o Excelentí
 Nós, brasileiros, não precisamos de luto oficial, precisamos de planos e ações.
 
 # Parlamentares
-Caso seja um parlamentar, e tenha interesse em se manifestar, envie, de seu e-mail oficial, mensagem para [cognocoder@gmail.com](mailto:cognocoder@gmail.com) com resposta para a seguinte pergunta:
+Você possivelmente recebeu um e-mail com o assunto "Deixe os Coniventes". Para se manifestar, basta seguir as instruções
 
-**Vossa Excelência aprovaria um processo de impeachment contra o Excelentíssimo Senhor Presidente da República Jair Messias Bolsonaro?**
+## Perguntas Frequentes
 
-Respostas válidas:
-+ [Sim](mailto:cognocoder@gmail.com?subject=Resposta%20Coniventes&body=Vossa%20Excel%C3%AAncia%20aprovaria%20um%20processo%20de%20impeachment%20contra%20o%20Excelent%C3%ADssimo%20Senhor%20Presidente%20da%20Rep%C3%BAblica%20Jair%20Messias%20Bolsonaro%3F%0A%0ASim.)
-+ [Não](mailto:cognocoder@gmail.com?subject=Resposta%20Coniventes&body=Vossa%20Excel%C3%AAncia%20aprovaria%20um%20processo%20de%20impeachment%20contra%20o%20Excelent%C3%ADssimo%20Senhor%20Presidente%20da%20Rep%C3%BAblica%20Jair%20Messias%20Bolsonaro%3F%0A%0AN%C3%A3o.)
-+ [Abstenção](mailto:cognocoder@gmail.com?subject=Resposta%20Coniventes&body=Vossa%20Excel%C3%AAncia%20aprovaria%20um%20processo%20de%20impeachment%20contra%20o%20Excelent%C3%ADssimo%20Senhor%20Presidente%20da%20Rep%C3%BAblica%20Jair%20Messias%20Bolsonaro%3F%0A%0AAbsten%C3%A7%C3%A3o.)
+#### Não recebi este e-mail. Como proceder?
+1. Acesse [Coniventes](https://cognocoder.github.io/coniventes/)
+2. Busque pelo seu perfil
+3. Clique no seu perfil
+4. Envie a mensagem de e-mail
 
 # Demais Informações
 Fatos e atos falam mais do que uma página hospedada na Internet. Ao atingirmos a marca de 10.000 mortos pelo coronavírus, iniciei este projeto de luto: não é perfeito, mas é o que pude fazer às pressas e com os recursos que possuo, dentro de minha capacidade.
 
 ## Processamento de Respostas
-O processamento de respostas se dará, em caráter temporário, de forma manual. Existe plano, já em curso, para integrar um Google Forms e ferramenta de processamento, que será retomado assim que possível. Para não adentrar o campo técnico, [Coniventes](https://cognocoder.github.io/coniventes/) se trata de uma página estática. 
+O processamento de respostas se dará, em caráter temporário, de forma manual. O desenvolvimento de uma ferramenta de automação do processamento de respostas será retomado assim que possível.
+
+## Como Coniventes foi Desenvolvido
+Para não adentrar o campo técnico, [Coniventes](https://cognocoder.github.io/coniventes/) se trata de uma página estática. 
 
 ## Apoio
-Em breve.
+A melhor forma de apoiar [Coniventes](https://cognocoder.github.io/coniventes/), e os brasileiros, é pesquisar pelos parlamentares da sua Unidade Federativa, clicar no perfil e enviar a mensagem de e-mail com o pedido para que deixem os Coniventes.
+
+Caso haja o interesse em prestar apoio financeiro, fico lisonjeado. Ainda não pude me atentar para esta questão.
