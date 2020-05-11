@@ -26,9 +26,9 @@ Caso seja um parlamentar, e tenha interesse em se manifestar, envie, de seu e-ma
 **Vossa Excelência aprovaria um processo de impeachment contra o Excelentíssimo Senhor Presidente da República Jair Messias Bolsonaro?**
 
 Respostas válidas:
-+ [Sim](mailto:cognocoder@gmail.com?subject=Resposta%20Coniventes&body=Sim)
-+ [Não](mailto:cognocoder@gmail.com?subject=Resposta%20Coniventes&body=Não)
-+ [Abstenção](mailto:cognocoder@gmail.com?subject=Resposta%20Coniventes&body=Abstenção)
++ [Sim](mailto:cognocoder@gmail.com?subject=Resposta%20Coniventes&body=Vossa%20Excel%C3%AAncia%20aprovaria%20um%20processo%20de%20impeachment%20contra%20o%20Excelent%C3%ADssimo%20Senhor%20Presidente%20da%20Rep%C3%BAblica%20Jair%20Messias%20Bolsonaro%3F%0A%0ASim.)
++ [Não](mailto:cognocoder@gmail.com?subject=Resposta%20Coniventes&body=Vossa%20Excel%C3%AAncia%20aprovaria%20um%20processo%20de%20impeachment%20contra%20o%20Excelent%C3%ADssimo%20Senhor%20Presidente%20da%20Rep%C3%BAblica%20Jair%20Messias%20Bolsonaro%3F%0A%0AN%C3%A3o.)
++ [Abstenção](mailto:cognocoder@gmail.com?subject=Resposta%20Coniventes&body=Vossa%20Excel%C3%AAncia%20aprovaria%20um%20processo%20de%20impeachment%20contra%20o%20Excelent%C3%ADssimo%20Senhor%20Presidente%20da%20Rep%C3%BAblica%20Jair%20Messias%20Bolsonaro%3F%0A%0AAbsten%C3%A7%C3%A3o.)
 
 # Demais Informações
 Fatos e atos falam mais do que uma página hospedada na Internet. Ao atingirmos a marca de 10.000 mortos pelo coronavírus, iniciei este projeto de luto: não é perfeito, mas é o que pude fazer às pressas e com os recursos que possuo, dentro de minha capacidade.
