@@ -31,6 +31,9 @@ Vossa Excelência possivelmente recebeu um e-mail com o assunto **_Deixe os Coni
 3. Clique no seu perfil
 4. Envie a mensagem de e-mail
 
+#### O que fazer caso não tenha intenção de participar?
+Basta fazer nada.
+
 # Apoio
 A melhor forma de apoiar [Coniventes](https://cognocoder.github.io/coniventes/), e os brasileiros, é pesquisar pelos parlamentares da sua Unidade Federativa, clicar no perfil e enviar a mensagem de e-mail com o pedido para que deixem os [Coniventes](https://cognocoder.github.io/coniventes/).
 
