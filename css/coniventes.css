@@ -105,8 +105,8 @@ tip {
   display: block;
   padding-bottom: 4px;
   margin-top: 8px;
-  font-size: 10px;
-  text-align: justify;
+  font-size: 16px;
+  text-align: left;
 }
 
 .card {
