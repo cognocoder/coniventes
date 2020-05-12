@@ -11,11 +11,7 @@ body {
 }
 
 header {
-  position: sticky;
-  top: 0;
-  z-index: 1;
   background-color: #ffffff;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
 #statistics {
@@ -36,15 +32,25 @@ a:hover {
   color: #9d2503;
 }
 
+.nodecoration {
+  text-decoration: none;
+}
+
 #conniving, #deaths, #confirmed {
   color: #fb7777;
   font-weight: bolder;
 }
 
 nav {
+  position: sticky;
+  top: 0;
+  z-index: 1;
   display: flex;
   justify-content: center;
+  margin-bottom: 24px;
+  background-color: #ffffff;
   font-size: 12px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
 
 .row {
@@ -99,10 +105,8 @@ tip {
   display: block;
   padding-bottom: 4px;
   margin-top: 8px;
-  margin-bottom: 20px;
-  text-align: center;
   font-size: 10px;
-  font-family: 'Fira Code', monospace;
+  text-align: justify;
 }
 
 .card {
@@ -113,6 +117,11 @@ tip {
 }
 .card:hover {
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.card-main {
+  margin-top: 8px;
+  margin-bottom: 0px;
 }
 
 
@@ -140,6 +149,10 @@ tip {
 
 p {
   margin: 0;
+}
+
+tip > p {
+  margin-top: 8px;
 }
 
 .person-img {

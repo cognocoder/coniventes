@@ -10,36 +10,70 @@
   <script src="js/coniventes.js"></script>
 
   <link href="https://fonts.googleapis.com/css2?family=Bitter&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&display=swap" rel="stylesheet">
   <title>Coniventes</title>
 </head>
 <body>
   <header id="header">
     <div id="statistics">
-    <strong id="conniving">  </strong>
-    <strong> parlamentares coniventes com </strong>
-    <strong id="deaths">  </strong>
-    <strong> vítimas fatais e </strong>
-    <strong id="confirmed">  </strong>
-    <strong> casos confirmados de coronavírus. </strong>
+      <strong id="conniving">  </strong>
+      <strong> parlamentares coniventes com </strong>
+      <strong id="deaths">  </strong>
+      <strong> vítimas fatais e </strong>
+      <strong id="confirmed">  </strong>
+      <strong> casos confirmados de coronavírus. </strong>
     </div>
-    <nav>
-      <div id="search-container" class="card">
-        <img id="search-icon" src="resources/search-icon.svg"></img>
-        <input type="text" id="search-input" name="search">
-      </div>
-    </nav>
+    <tip class="col">
+      <h3>Pela abertura de um processo de impeachment</h3>
+      <p><span>
+        O Excelentíssimo Presidente da República, Jair Messias Bolsonaro, acumulou 31 pedidos de impeachment, dentre os quais consta o <a href="http://www.abi.org.br/wp-content/uploads/2020/05/Documento-impeachment.pdf" target="_blank">apartidário pedido de impeachment da Associação Brasileira de Imprensa</a>.
+      </span></p>
+      <h3>O que posso fazer agora?</h3>
+      <p><span>
+        Podemos pressionar o Excelentíssimo senhor Presidente da Câmara dos Deputados, Rodrigo Maia, a apreciar um dos pedidos de impeachment.
+      </span></p>
+      <p><span>
+        Clique no cartão abaixo para enviá-lo uma mensagem de e-mail.
+      </span></p>
+      <a class="nodecoration" href="mailto:dep.rodrigomaia@camara.leg.br?subject=Deixe%20de%20ser%20Conivente&amp;body=Vossa%20Excel%C3%AAncia%20aprovaria%20a%20abertura%20um%20processo%20de%0A%09%09%09impeachment%20contra%20o%20Excelent%C3%ADssimo%20Senhor%20Presidente%20da%20Rep%C3%BAblica%20Jair%0A%09%09%09Messias%20Bolsonaro%3F%0A%0A%09%09%09Destaca-se%20o%20apartid%C3%A1rio%20pedido%20de%20impeachment%20da%20Associa%C3%A7%C3%A3o%20Brasileira%20de%20Imprensa%3A%20http%3A%2F%2Fwww.abi.org.br%2Fwp-content%2Fuploads%2F2020%2F05%2FDocumento-impeachment.pdf%0A%0A%09%09%09Acesse%20https%3A%2F%2Fcognocoder.github.io%2Fconiventes%2Fhtml%2Fresponder.html%20para%0A%09%09%09responder%20e%20deixar%20de%20ser%20Conivente.%0A%09%09%09Utilize%20seu%20e-mail%20oficial%20e%20lembre-se%2C%20para%20n%C3%A3o%20ser%20Conivente%2C%20%C3%A9%0A%09%09%09necess%C3%A1rio%20uma%20resposta%20afirmativa.%0A%0A%09%09%09https%3A%2F%2Fcognocoder.github.io%2Fconiventes%2F" alt="Enviar mensagem ao endereço de e-mail oficial do Presidente da Câmara dos Deputados">
+        <div class="col card card-main">
+          <img class="person-img" src="https://www.camara.leg.br/internet/deputado/bandep/pagina_do_deputado/74693.jpg" onerror="this.src='https://www.camara.leg.br/tema/assets/images/foto-deputado-sem-foto-grd.png'" alt="Presidente da Câmara dos Deputados">
+          <div class="person-data">
+            <span class="person-position">Deputado Rodrigo Maia</span>
+            <br>
+            <span class="person-info">DEM (RJ) - Rodrigo Felinto Ibarra Epitacio Maia</span>
+            <br>
+            <br>
+            <span class="person-mail">dep.rodrigomaia@camara.leg.br</span>
+          </div>
+        </div>
+      </a>
+      <h3>Lista de coniventes</h3>
+      <p><span>
+        Parlamentares deixarão de constar na lista na medida em que se seguirem as instruções nas mensagens enviadas.
+      </span></p>
+      <p><span>
+        A busca é flexível e gentil: tolera erros na grafia e atua sobre nome, partido, unidade federativa e e-mail dos parlamentares.
+      </span></p>
+      <p><span>
+        Clique na imagem de perfil para exibir a foto de um parlamentar. As fotos são carregadas desta maneira para reduzir a transferência de dados.
+      </span></p>
+      <p><span>
+        Clique no nome de um parlamentar para acessar seu perfil na página do <a href="https://www25.senado.leg.br">Senado Federal</a> ou <a href="https://www.camara.leg.br">Câmara dos Deputados</a>.
+      </span></p>
+      <p><span>
+        Clique no endereço de e-mail de um parlamentar para enviá-lo uma mensagem pré-elaborada. Pode ser necessário configurar um cliente de e-mail para utilizar esta funcionalidade, e normalmente permite que você verifique o destinatário, assunto e corpo da mensagem de e-mail.
+      </span></p>
+    </tip>
   </header>
+  <nav>
+    <div id="search-container" class="card">
+      <img id="search-icon" src="resources/search-icon.svg" alt="busca"></img>
+      <input type="text" id="search-input" name="search" alt="campo de busca">
+    </div>
+    <br>
+  </nav>
   
   <div id="main">
-    <tip class="col">
-      <span class="tip">Busca Permissiva <br>
-      Clique: Imagem->Foto, Nome->Perfil, E-mail->Pedido
-      <br>
-      <a href="https://github.com/cognocoder/coniventes">
-        Mais informações sobre Coniventes
-      </a></span>
-    </tip>
     <div id="cards"></div>
   </div>
 </body>

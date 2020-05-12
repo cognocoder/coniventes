@@ -76,13 +76,12 @@ let buildcards = function buildcards(array) {
 		encodeURIComponent("Deixe de ser Conivente") + "&body=" +
 		encodeURIComponent(`Vossa Excelência aprovaria a abertura um processo de
 			impeachment contra o Excelentíssimo Senhor Presidente da República Jair
-			Messias Bolsonaro?
-			
+			Messias Bolsonaro?\n
+			Destaca-se o apartidário pedido de impeachment da Associação Brasileira de Imprensa: http://www.abi.org.br/wp-content/uploads/2020/05/Documento-impeachment.pdf\n
 			Acesse https://cognocoder.github.io/coniventes/html/responder.html para
 			responder e deixar de ser Conivente.
 			Utilize seu e-mail oficial e lembre-se, para não ser Conivente, é
-			necessário uma resposta afirmativa.
-			
+			necessário uma resposta afirmativa.\n
 			https://cognocoder.github.io/coniventes/`);
 
 	for (let parlamentar of array) {
@@ -105,6 +104,7 @@ let buildcards = function buildcards(array) {
 		card.className = "col card";
 
 		img = document.createElement("img");
+		img.alt = parlamentar.cargo;
 		img.id = "img" + parlamentar.id;
 		img.className = "person-img"
 		img.onerror = () => { 
@@ -119,6 +119,7 @@ let buildcards = function buildcards(array) {
 		data.className = "person-data";
 		
 		linkpage = document.createElement("a");
+		linkpage.alt = "Perfil oficial do " + parlamentar.cargo;
 		linkpage.href = pageurl;
 		linkpage.target = "_blank";
 
@@ -132,6 +133,7 @@ let buildcards = function buildcards(array) {
 			`${parlamentar.partido} (${parlamentar.uf}) - ${parlamentar.nome}`;
 
 		linkmail = document.createElement("a");
+		linkmail.alt = "Enviar mensagem ao endereço de e-mail oficial do " + parlamentar.cargo;
 		linkmail.href = `mailto:${parlamentar.mail}${mailmessage}`;
 
 		mail = document.createElement("span");
@@ -190,8 +192,8 @@ function register_onclick() {
 }
 
 let options = {
-  shouldSort: false,
-  threshold: 0.35,
+  shouldSort: true,
+  threshold: 0.4,
   keys: [
     "cargo",
     "partido",
