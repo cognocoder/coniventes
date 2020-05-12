@@ -77,12 +77,12 @@ let buildcards = function buildcards(array) {
 		encodeURIComponent(`Vossa Excelência aprovaria a abertura um processo de
 			impeachment contra o Excelentíssimo Senhor Presidente da República Jair
 			Messias Bolsonaro?
-			\n\n
+			
 			Acesse https://cognocoder.github.io/coniventes/html/responder.html para
 			responder e deixar de ser Conivente.
 			Utilize seu e-mail oficial e lembre-se, para não ser Conivente, é
 			necessário uma resposta afirmativa.
-			\n\n
+			
 			https://cognocoder.github.io/coniventes/`);
 
 	for (let parlamentar of array) {
@@ -191,7 +191,7 @@ function register_onclick() {
 
 let options = {
   shouldSort: false,
-  threshold: 0.2,
+  threshold: 0.35,
   keys: [
     "cargo",
     "partido",
