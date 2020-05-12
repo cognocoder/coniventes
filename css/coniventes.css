@@ -1,25 +1,13 @@
 
-html {
-  height: 100%;
-}
-
 body {
   height: 100%;
   margin: 0px;
 
   font-family: 'Bitter', serif;
+  font-size: 12px;
   text-align: center;
-}
 
-content {
-  min-height: 100%;
-  display: block;
-  margin-bottom: -42px;
-}
-
-content:after {
-  content: "";
-  display: block;
+  color: #424242;
 }
 
 header {
@@ -33,12 +21,15 @@ header {
 }
 
 a {
-  color: #b4b4b4;
-  text-decoration: none;
+  color: #424242;
   font-weight: bolder;
 }
 
-#deaths, #confirmed {
+a:hover {
+  color: #9d2503;
+}
+
+#conniving, #deaths, #confirmed {
   color: #fb7777;
   font-weight: bolder;
 }
@@ -49,23 +40,48 @@ nav {
   font-size: 12px;
 }
 
+.row {
+  height: 140px;
+  max-height: 140px;
+}
+
+.col {
+  width: 90%;
+  max-width: 90%;
+  margin-left: 5%;
+}
+
 #search-container {
+  width: calc(90% - 8px);
   margin-top: 12px;
+  margin-bottom: 12px;
   padding: 4px;
-
+  
   display: flex;
-
+  
   border: 1px solid #b4b4b4;
 }
 
+@media only screen and (min-width: 768px) {
+  .col {
+    width: 48%;
+    max-width: 48%;
+    margin-left: 26%;
+  }
+
+  #search-container {
+    width: calc(48% - 8px);
+  }
+}
+
 #search-icon {
-  display: inline-flex;
   height: 18px;
   margin-right: 4px;
+  display: inline-flex;
 }
 
 input[type=text] {
-  width: 240px;
+  width: calc(100% - 22px);
   display: inline-flex;
   border: none;
   padding: 0;
@@ -73,18 +89,56 @@ input[type=text] {
   font-family: 'Bitter', serif;
 }
 
+tip {
+  display: block;
+  margin-bottom: 20px;
+  text-align: justify;
+  font-size: 10px;
+}
+
 .card {
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  margin-bottom: 24px;
 }
 
 .card:hover {
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 
-footer {
-  height: 42px;
-  background-color: #424242;
-  color: #b4b4b4;
-  font-size: 10px;
+
+#main {
+  position: relative;
+  margin-bottom: 24px;
+}
+
+.person-data {
+  width: calc(100% - 48px);
+  text-align: left;
+  padding: 4px 12px 4px 12px;
+  border-left: 24px solid #424242;
+}
+
+p {
+  margin: 0;
+}
+
+.person-position {
+  font-size: 16px;
+}
+
+.answer-tip {
+  font-size: 16px;
+}
+
+.field-sample {
+  width: calc(100% - 24px);
+  padding: 4px 12px 4px 12px;
+  border: 1px solid black;
+  text-align: left;
+}
+
+button {
+  width: calc(100% - 48px);
+  margin: 12px 24px 0 24px;
 }

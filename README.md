@@ -23,16 +23,21 @@ Nós, brasileiros, não precisamos de luto oficial, precisamos de planos e açõ
 # Parlamentares
 Vossa Excelência possivelmente recebeu um e-mail com o assunto **_Deixe os Coniventes_**. Para se manifestar, basta seguir as instruções desta mensagem e-mail.
 
-## Perguntas Frequentes
+# Perguntas Frequentes
 
-#### Não recebi o e-mail. Como proceder?
+#### Sou parlamentar e não recebi o e-mail. Como proceder?
 1. Acesse [Coniventes](https://cognocoder.github.io/coniventes/)
 2. Busque pelo seu perfil
 3. Clique no seu perfil
 4. Envie a mensagem de e-mail
 
-#### O que fazer caso não tenha intenção de participar?
+#### Sou parlamentar e o que faço caso não tenha intenção de participar?
 Basta fazer nada.
+
+#### O link abre um programa estranho
+Provavelmente não há um cliente de e-mail configurado em seu dispositivo. [Coniventes](https://cognocoder.github.io/coniventes/) foi desenvolvido para funcionar em dispositivos móveis, nos quais usuários configuram contas de e-mail para ter acesso às lojas de aplicativo e outras funcionalidades.
+
+Enquanto não é provida uma solução para esta questão, sugiro consultar informações para entrar em contato com um parlamentar através da [lista de parlamentares em exercício](https://www.congressonacional.leg.br/parlamentares/em-exercicio).
 
 # Apoio
 A melhor forma de apoiar [Coniventes](https://cognocoder.github.io/coniventes/), e os brasileiros, é pesquisar pelos parlamentares da sua Unidade Federativa, clicar no perfil e enviar a mensagem de e-mail com o pedido para que deixem os [Coniventes](https://cognocoder.github.io/coniventes/).

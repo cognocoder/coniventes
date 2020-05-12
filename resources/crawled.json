@@ -1,0 +1,5348 @@
+[
+  {
+    "id": "204554",
+    "cargo": "Deputado Abílio Santana",
+    "partido": "PL",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Jose Abilio Silva De Santana",
+    "mail": "dep.abiliosantana@camara.leg.br"
+  },
+  {
+    "id": "204521",
+    "cargo": "Deputado Abou Anni",
+    "partido": "PSL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Paulo Sergio Abou Anni",
+    "mail": "dep.abouanni@camara.leg.br"
+  },
+  {
+    "id": "204379",
+    "cargo": "Deputado Acácio Favacho",
+    "partido": "PROS",
+    "uf": "AP",
+    "voto": null,
+    "nome": "Acacio Da Silva Favacho Neto",
+    "mail": "dep.acaciofavacho@camara.leg.br"
+  },
+  {
+    "id": "4981",
+    "cargo": "Senador Acir Gurgacz",
+    "partido": "PDT",
+    "uf": "RO",
+    "voto": null,
+    "nome": "Acir Marcos Gurgacz",
+    "mail": "sen.acirgurgacz@senado.leg.br"
+  },
+  {
+    "id": "204560",
+    "cargo": "Deputado Adolfo Viana",
+    "partido": "PSDB",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Adolfo Viana De Castro Neto",
+    "mail": "dep.adolfoviana@camara.leg.br"
+  },
+  {
+    "id": "204528",
+    "cargo": "Deputada Adriana Ventura",
+    "partido": "NOVO",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Adriana Miguel Ventura",
+    "mail": "dep.adrianaventura@camara.leg.br"
+  },
+  {
+    "id": "121948",
+    "cargo": "Deputado Adriano Do Baldy",
+    "partido": "PP",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Adriano Antonio Avelar",
+    "mail": "dep.adrianodobaldy@camara.leg.br"
+  },
+  {
+    "id": "74646",
+    "cargo": "Deputado Aécio Neves",
+    "partido": "PSDB",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Aecio Neves Da Cunha",
+    "mail": "dep.aecioneves@camara.leg.br"
+  },
+  {
+    "id": "160508",
+    "cargo": "Deputado Afonso Florence",
+    "partido": "PT",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Afonso Bandeira Florence",
+    "mail": "dep.afonsoflorence@camara.leg.br"
+  },
+  {
+    "id": "136811",
+    "cargo": "Deputado Afonso Hamm",
+    "partido": "PP",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Jose Alfonso Ebert Hamm",
+    "mail": "dep.afonsohamm@camara.leg.br"
+  },
+  {
+    "id": "178835",
+    "cargo": "Deputado Afonso Motta",
+    "partido": "PDT",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Afonso Antunes Da Motta",
+    "mail": "dep.afonsomotta@camara.leg.br"
+  },
+  {
+    "id": "160527",
+    "cargo": "Deputado Aguinaldo Ribeiro",
+    "partido": "PP",
+    "uf": "PB",
+    "voto": null,
+    "nome": "Aguinaldo Velloso Borges Ribeiro",
+    "mail": "dep.aguinaldoribeiro@camara.leg.br"
+  },
+  {
+    "id": "204495",
+    "cargo": "Deputado Airton Faleiro",
+    "partido": "PT",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Airton Luiz Faleiro",
+    "mail": "dep.airtonfaleiro@camara.leg.br"
+  },
+  {
+    "id": "204549",
+    "cargo": "Deputado Aj Albuquerque",
+    "partido": "PP",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Antonio Jose Aguiar Albuquerque",
+    "mail": "dep.ajalbuquerque@camara.leg.br"
+  },
+  {
+    "id": "178836",
+    "cargo": "Deputado Alan Rick",
+    "partido": "DEM",
+    "uf": "AC",
+    "voto": null,
+    "nome": "Alan Rick Miranda",
+    "mail": "dep.alanrick@camara.leg.br"
+  },
+  {
+    "id": "160559",
+    "cargo": "Deputado Alceu Moreira",
+    "partido": "MDB",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Alceu Moreira Da Silva",
+    "mail": "dep.alceumoreira@camara.leg.br"
+  },
+  {
+    "id": "204413",
+    "cargo": "Deputado Alcides Rodrigues",
+    "partido": "PATRIOTA",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Alcides Rodrigues Filho",
+    "mail": "dep.alcidesrodrigues@camara.leg.br"
+  },
+  {
+    "id": "204501",
+    "cargo": "Deputado Alencar Santana Braga",
+    "partido": "PT",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Alencar Santana Braga",
+    "mail": "dep.alencarsantanabraga@camara.leg.br"
+  },
+  {
+    "id": "204545",
+    "cargo": "Deputada Alê Silva",
+    "partido": "PSL",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Alessandra Da Silva",
+    "mail": "dep.alesilva@camara.leg.br"
+  },
+  {
+    "id": "160511",
+    "cargo": "Deputado Alessandro Molon",
+    "partido": "PSB",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Alessandro Lucciola Molon",
+    "mail": "dep.alessandromolon@camara.leg.br"
+  },
+  {
+    "id": "5982",
+    "cargo": "Senador Alessandro Vieira",
+    "partido": "CIDADANIA",
+    "uf": "SE",
+    "voto": null,
+    "nome": "Alessandro Vieira",
+    "mail": "sen.alessandrovieira@senado.leg.br"
+  },
+  {
+    "id": "204544",
+    "cargo": "Deputado Alexandre Frota",
+    "partido": "PSDB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Alexandre Frota De Andrade",
+    "mail": "dep.alexandrefrota@camara.leg.br"
+  },
+  {
+    "id": "160545",
+    "cargo": "Deputado Alexandre Leite",
+    "partido": "DEM",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Alexandre Leite Da Silva",
+    "mail": "dep.alexandreleite@camara.leg.br"
+  },
+  {
+    "id": "204503",
+    "cargo": "Deputado Alexandre Padilha",
+    "partido": "PT",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Alexandre Rocha Santos Padilha",
+    "mail": "dep.alexandrepadilha@camara.leg.br"
+  },
+  {
+    "id": "178833",
+    "cargo": "Deputado Alexandre Serfiotis",
+    "partido": "PSD",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Alexandre Augustus Serfiotis",
+    "mail": "dep.alexandreserfiotis@camara.leg.br"
+  },
+  {
+    "id": "204516",
+    "cargo": "Deputado Alexis Fonteyne",
+    "partido": "NOVO",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Alexis Joseph Steverlynck Fonteyne",
+    "mail": "dep.alexisfonteyne@camara.leg.br"
+  },
+  {
+    "id": "178972",
+    "cargo": "Deputado Alex Manente",
+    "partido": "CIDADANIA",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Alex Spinelli Manente",
+    "mail": "dep.alexmanente@camara.leg.br"
+  },
+  {
+    "id": "204571",
+    "cargo": "Deputado Alex Santana",
+    "partido": "PDT",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Alex Marco Santana Sousa",
+    "mail": "dep.alexsantana@camara.leg.br"
+  },
+  {
+    "id": "74057",
+    "cargo": "Deputada Alice Portugal",
+    "partido": "PCdoB",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Alice Mazzuco Portugal",
+    "mail": "dep.aliceportugal@camara.leg.br"
+  },
+  {
+    "id": "178927",
+    "cargo": "Deputado Aliel Machado",
+    "partido": "PSB",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Aliel Machado Bark",
+    "mail": "dep.alielmachado@camara.leg.br"
+  },
+  {
+    "id": "204353",
+    "cargo": "Deputada Aline Gurgel",
+    "partido": "REPUBLICANOS",
+    "uf": "AP",
+    "voto": null,
+    "nome": "Aline Paranhos Varonil Gurgel",
+    "mail": "dep.alinegurgel@camara.leg.br"
+  },
+  {
+    "id": "204400",
+    "cargo": "Deputada Aline Sleutjes",
+    "partido": "PSL",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Aline Sleutjes",
+    "mail": "dep.alinesleutjes@camara.leg.br"
+  },
+  {
+    "id": "178881",
+    "cargo": "Deputado Aluisio Mendes",
+    "partido": "PSC",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Aluisio Guimaraes Mendes Filho",
+    "mail": "dep.aluisiomendes@camara.leg.br"
+  },
+  {
+    "id": "945",
+    "cargo": "Senador Alvaro Dias",
+    "partido": "PODEMOS",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Alvaro Fernandes Dias",
+    "mail": "(61) 3303-2941"
+  },
+  {
+    "id": "204356",
+    "cargo": "Deputado Amaro Neto",
+    "partido": "REPUBLICANOS",
+    "uf": "ES",
+    "voto": null,
+    "nome": "Amaro Rocha Nascimento Neto",
+    "mail": "dep.amaroneto@camara.leg.br"
+  },
+  {
+    "id": "178831",
+    "cargo": "Deputado André Abdon",
+    "partido": "PP",
+    "uf": "AP",
+    "voto": null,
+    "nome": "Andre Dos Santos Abdon",
+    "mail": "dep.andreabdon@camara.leg.br"
+  },
+  {
+    "id": "74471",
+    "cargo": "Deputado André De Paula",
+    "partido": "PSD",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Andre Carlos Alves De Paula Filho",
+    "mail": "dep.andredepaula@camara.leg.br"
+  },
+  {
+    "id": "204423",
+    "cargo": "Deputado André Ferreira",
+    "partido": "PSC",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Andre Ferreira Rodrigues",
+    "mail": "dep.andreferreira@camara.leg.br"
+  },
+  {
+    "id": "133439",
+    "cargo": "Deputado André Figueiredo",
+    "partido": "PDT",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Andre Peixoto Figueiredo Lima",
+    "mail": "dep.andrefigueiredo@camara.leg.br"
+  },
+  {
+    "id": "178882",
+    "cargo": "Deputado André Fufuca",
+    "partido": "PP",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Andre Luiz Carvalho Ribeiro",
+    "mail": "dep.andrefufuca@camara.leg.br"
+  },
+  {
+    "id": "204515",
+    "cargo": "Deputado André Janones",
+    "partido": "AVANTE",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Andre Luis Gaspar Janones",
+    "mail": "dep.andrejanones@camara.leg.br"
+  },
+  {
+    "id": "73696",
+    "cargo": "Deputada Angela Amin",
+    "partido": "PP",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Angela Regina Heinzen Amin Helou",
+    "mail": "dep.angelaamin@camara.leg.br"
+  },
+  {
+    "id": "5967",
+    "cargo": "Senador Angelo Coronel",
+    "partido": "PSD",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Angelo Mario Coronel de Azevedo Martins",
+    "mail": "sen.angelocoronel@senado.leg.br"
+  },
+  {
+    "id": "5529",
+    "cargo": "Senador Antonio Anastasia",
+    "partido": "PSD",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Antonio Augusto Junho Anastasia",
+    "mail": "sen.antonioanastasia@senado.leg.br"
+  },
+  {
+    "id": "160553",
+    "cargo": "Deputado Antonio Brito",
+    "partido": "PSD",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Antonio Luiz Paranhos Ribeiro Leite De Brito",
+    "mail": "dep.antoniobrito@camara.leg.br"
+  },
+  {
+    "id": "73433",
+    "cargo": "Deputado Arlindo Chinaglia",
+    "partido": "PT",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Arlindo Chignalia Junior",
+    "mail": "dep.arlindochinaglia@camara.leg.br"
+  },
+  {
+    "id": "141391",
+    "cargo": "Deputado Arnaldo Jardim",
+    "partido": "CIDADANIA",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Arnaldo Calil Pereira Jardim",
+    "mail": "dep.arnaldojardim@camara.leg.br"
+  },
+  {
+    "id": "751",
+    "cargo": "Senador Arolde De Oliveira",
+    "partido": "PSD",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Arolde de Oliveira",
+    "mail": "sen.aroldedeoliveira@senado.leg.br"
+  },
+  {
+    "id": "204414",
+    "cargo": "Deputado Aroldo Martins",
+    "partido": "REPUBLICANOS",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Jose Aroldo Souza Martins",
+    "mail": "dep.aroldomartins@camara.leg.br"
+  },
+  {
+    "id": "160541",
+    "cargo": "Deputado Arthur Lira",
+    "partido": "PP",
+    "uf": "AL",
+    "voto": null,
+    "nome": "Arthur Cesar Pereira De Lira",
+    "mail": "dep.arthurlira@camara.leg.br"
+  },
+  {
+    "id": "160600",
+    "cargo": "Deputado Arthur Oliveira Maia",
+    "partido": "DEM",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Arthur De Oliveira Maia Da Silva",
+    "mail": "dep.arthuroliveiramaia@camara.leg.br"
+  },
+  {
+    "id": "159237",
+    "cargo": "Deputado Assis Carvalho",
+    "partido": "PT",
+    "uf": "PI",
+    "voto": null,
+    "nome": "Francisco De Assis Carvalho Goncalves",
+    "mail": "dep.assiscarvalho@camara.leg.br"
+  },
+  {
+    "id": "74090",
+    "cargo": "Deputado Átila Lins",
+    "partido": "PP",
+    "uf": "AM",
+    "voto": null,
+    "nome": "Atila Sidney Lins Albuquerque",
+    "mail": "dep.atilalins@camara.leg.br"
+  },
+  {
+    "id": "74459",
+    "cargo": "Deputado Átila Lira",
+    "partido": "PP",
+    "uf": "PI",
+    "voto": null,
+    "nome": "Atila Freitas Lira",
+    "mail": "dep.atilalira@camara.leg.br"
+  },
+  {
+    "id": "160665",
+    "cargo": "Deputado Augusto Coutinho",
+    "partido": "SOLIDARIEDADE",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Augusto Rodrigues Coutinho De Melo",
+    "mail": "dep.augustocoutinho@camara.leg.br"
+  },
+  {
+    "id": "204509",
+    "cargo": "Deputada Áurea Carolina",
+    "partido": "PSOL",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Aurea Carolina De Freitas E Silva",
+    "mail": "dep.aureacarolina@camara.leg.br"
+  },
+  {
+    "id": "160512",
+    "cargo": "Deputado Aureo Ribeiro",
+    "partido": "SOLIDARIEDADE",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Aureo Lidio Moreira Ribeiro",
+    "mail": "dep.aureoribeiro@camara.leg.br"
+  },
+  {
+    "id": "69871",
+    "cargo": "Deputado Bacelar",
+    "partido": "PODE",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Joao Carlos Bacelar Batista",
+    "mail": "dep.bacelar@camara.leg.br"
+  },
+  {
+    "id": "178975",
+    "cargo": "Deputado Baleia Rossi",
+    "partido": "MDB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Luiz Felipe Baleia Tenuto Rossi",
+    "mail": "dep.baleiarossi@camara.leg.br"
+  },
+  {
+    "id": "73701",
+    "cargo": "Deputada Benedita Da Silva",
+    "partido": "PT",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Benedita Souza Da Silva Sampaio",
+    "mail": "dep.beneditadasilva@camara.leg.br"
+  },
+  {
+    "id": "109429",
+    "cargo": "Deputado Benes Leocádio",
+    "partido": "REPUBLICANOS",
+    "uf": "RN",
+    "voto": null,
+    "nome": "Luiz Benes Leocadio De Araujo",
+    "mail": "dep.benesleocadio@camara.leg.br"
+  },
+  {
+    "id": "141335",
+    "cargo": "Deputado Beto Faro",
+    "partido": "PT",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Jose Roberto Oliveira Faro",
+    "mail": "dep.betofaro@camara.leg.br"
+  },
+  {
+    "id": "204358",
+    "cargo": "Deputado Beto Pereira",
+    "partido": "PSDB",
+    "uf": "MS",
+    "voto": null,
+    "nome": "Humberto Rezende Pereira",
+    "mail": "dep.betopereira@camara.leg.br"
+  },
+  {
+    "id": "178948",
+    "cargo": "Deputado Beto Rosado",
+    "partido": "PP",
+    "uf": "RN",
+    "voto": null,
+    "nome": "Carlos Alberto De Sousa Rosado Segundo",
+    "mail": "dep.betorosado@camara.leg.br"
+  },
+  {
+    "id": "207176",
+    "cargo": "Deputada Bia Cavassa",
+    "partido": "PSDB",
+    "uf": "MS",
+    "voto": null,
+    "nome": "Beatriz Rosalia Ribeiro Cavassa De Oliveira",
+    "mail": "dep.biacavassa@camara.leg.br"
+  },
+  {
+    "id": "204374",
+    "cargo": "Deputada Bia Kicis",
+    "partido": "PSL",
+    "uf": "DF",
+    "voto": null,
+    "nome": "Beatriz Kicis Torrents De Sordi",
+    "mail": "dep.biakicis@camara.leg.br"
+  },
+  {
+    "id": "204388",
+    "cargo": "Deputado Bibo Nunes",
+    "partido": "PSL",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Alcibio Mesquita Bibo Nunes",
+    "mail": "dep.bibonunes@camara.leg.br"
+  },
+  {
+    "id": "141513",
+    "cargo": "Deputado Bilac Pinto",
+    "partido": "DEM",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Olavo Bilac Pinto Neto",
+    "mail": "dep.bilacpinto@camara.leg.br"
+  },
+  {
+    "id": "204561",
+    "cargo": "Deputado Bira Do Pindaré",
+    "partido": "PSB",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Ubirajara Do Pindare Almeida Sousa",
+    "mail": "dep.biradopindare@camara.leg.br"
+  },
+  {
+    "id": "204397",
+    "cargo": "Deputado Boca Aberta",
+    "partido": "PROS",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Emerson Miguel Petriv",
+    "mail": "dep.bocaaberta@camara.leg.br"
+  },
+  {
+    "id": "160538",
+    "cargo": "Deputado Bohn Gass",
+    "partido": "PT",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Elvino Jose Bohn Gass",
+    "mail": "dep.bohngass@camara.leg.br"
+  },
+  {
+    "id": "74052",
+    "cargo": "Deputado Bosco Costa",
+    "partido": "PL",
+    "uf": "SE",
+    "voto": null,
+    "nome": "Joao Bosco Da Costa",
+    "mail": "dep.boscocosta@camara.leg.br"
+  },
+  {
+    "id": "204551",
+    "cargo": "Deputado Bosco Saraiva",
+    "partido": "SOLIDARIEDADE",
+    "uf": "AM",
+    "voto": null,
+    "nome": "Joao Bosco Gomes Saraiva",
+    "mail": "dep.boscosaraiva@camara.leg.br"
+  },
+  {
+    "id": "160589",
+    "cargo": "Deputada Bruna Furlan",
+    "partido": "PSDB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Bruna Dias Furlan",
+    "mail": "dep.brunafurlan@camara.leg.br"
+  },
+  {
+    "id": "93083",
+    "cargo": "Deputado Cacá Leão",
+    "partido": "PP",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Carlos Felipe Vazquez De Souza Leao",
+    "mail": "dep.cacaleao@camara.leg.br"
+  },
+  {
+    "id": "204352",
+    "cargo": "Deputado Camilo Capiberibe",
+    "partido": "PSB",
+    "uf": "AP",
+    "voto": null,
+    "nome": "Carlos Camilo Goes Capiberibe",
+    "mail": "dep.camilocapiberibe@camara.leg.br"
+  },
+  {
+    "id": "204572",
+    "cargo": "Deputado Capitão Alberto Neto",
+    "partido": "REPUBLICANOS",
+    "uf": "AM",
+    "voto": null,
+    "nome": "Alberto Barros Cavalcante Neto",
+    "mail": "dep.capitaoalbertoneto@camara.leg.br"
+  },
+  {
+    "id": "178829",
+    "cargo": "Deputado Capitão Augusto",
+    "partido": "PL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Jose Augusto Rosa",
+    "mail": "dep.capitaoaugusto@camara.leg.br"
+  },
+  {
+    "id": "204487",
+    "cargo": "Deputado Capitão Wagner",
+    "partido": "PROS",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Wagner Sousa Gomes",
+    "mail": "dep.capitaowagner@camara.leg.br"
+  },
+  {
+    "id": "204507",
+    "cargo": "Deputada Carla Zambelli",
+    "partido": "PSL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Carla Zambelli Salgado",
+    "mail": "dep.carlazambelli@camara.leg.br"
+  },
+  {
+    "id": "141401",
+    "cargo": "Deputado Carlos Bezerra",
+    "partido": "MDB",
+    "uf": "MT",
+    "voto": null,
+    "nome": "Carlos Gomes Bezerra",
+    "mail": "dep.carlosbezerra@camara.leg.br"
+  },
+  {
+    "id": "204361",
+    "cargo": "Deputado Carlos Chiodini",
+    "partido": "MDB",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Carlos Alberto Chiodini",
+    "mail": "dep.carloschiodini@camara.leg.br"
+  },
+  {
+    "id": "6295",
+    "cargo": "Senador Carlos Fávaro",
+    "partido": "PSD",
+    "uf": "MT",
+    "voto": null,
+    "nome": "Carlos Henrique Baqueta Fávaro",
+    "mail": "sen.carlosfavaro@senado.leg.br"
+  },
+  {
+    "id": "178962",
+    "cargo": "Deputado Carlos Gomes",
+    "partido": "REPUBLICANOS",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Antonio Carlos Gomes Da Silva",
+    "mail": "dep.carlosgomes@camara.leg.br"
+  },
+  {
+    "id": "178993",
+    "cargo": "Deputado Carlos Henrique Gaguim",
+    "partido": "DEM",
+    "uf": "TO",
+    "voto": null,
+    "nome": "Carlos Henrique Amorim",
+    "mail": "dep.carloshenriquegaguim@camara.leg.br"
+  },
+  {
+    "id": "204460",
+    "cargo": "Deputado Carlos Jordy",
+    "partido": "PSL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Carlos Roberto Coelho De Mattos Junior",
+    "mail": "dep.carlosjordy@camara.leg.br"
+  },
+  {
+    "id": "74262",
+    "cargo": "Deputado Carlos Sampaio",
+    "partido": "PSDB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Carlos Henrique Focesi Sampaio",
+    "mail": "dep.carlossampaio@camara.leg.br"
+  },
+  {
+    "id": "204426",
+    "cargo": "Deputado Carlos Veras",
+    "partido": "PT",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Jose Carlos Veras Dos Santos",
+    "mail": "dep.carlosveras@camara.leg.br"
+  },
+  {
+    "id": "5990",
+    "cargo": "Senador Carlos Viana",
+    "partido": "PSD",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Carlos Alberto Dias Viana",
+    "mail": "sen.carlosviana@senado.leg.br"
+  },
+  {
+    "id": "141398",
+    "cargo": "Deputado Carlos Zarattini",
+    "partido": "PT",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Carlos Alberto Rolim Zarattini",
+    "mail": "dep.carloszarattini@camara.leg.br"
+  },
+  {
+    "id": "164360",
+    "cargo": "Deputada Carmen Zanotto",
+    "partido": "CIDADANIA",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Carmen Emilia Bonfa Zanotto",
+    "mail": "dep.carmenzanotto@camara.leg.br"
+  },
+  {
+    "id": "204369",
+    "cargo": "Deputada Caroline De Toni",
+    "partido": "PSL",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Caroline Rodrigues De Toni",
+    "mail": "dep.carolinedetoni@camara.leg.br"
+  },
+  {
+    "id": "204499",
+    "cargo": "Deputado Cássio Andrade",
+    "partido": "PSB",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Cassio Coelho Andrade",
+    "mail": "dep.cassioandrade@camara.leg.br"
+  },
+  {
+    "id": "204380",
+    "cargo": "Deputada Celina Leão",
+    "partido": "PP",
+    "uf": "DF",
+    "voto": null,
+    "nome": "Celina Leao Hizim Ferreira",
+    "mail": "dep.celinaleao@camara.leg.br"
+  },
+  {
+    "id": "204370",
+    "cargo": "Deputado Célio Moura",
+    "partido": "PT",
+    "uf": "TO",
+    "voto": null,
+    "nome": "Celio Alves De Moura",
+    "mail": "dep.celiomoura@camara.leg.br"
+  },
+  {
+    "id": "178876",
+    "cargo": "Deputado Célio Silveira",
+    "partido": "PSDB",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Celio Antonio Da Silveira",
+    "mail": "dep.celiosilveira@camara.leg.br"
+  },
+  {
+    "id": "204488",
+    "cargo": "Deputado Célio Studart",
+    "partido": "PV",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Celio Studart Barbosa",
+    "mail": "dep.celiostudart@camara.leg.br"
+  },
+  {
+    "id": "141405",
+    "cargo": "Deputado Celso Maldaner",
+    "partido": "MDB",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Celso Maldaner",
+    "mail": "dep.celsomaldaner@camara.leg.br"
+  },
+  {
+    "id": "73441",
+    "cargo": "Deputado Celso Russomanno",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Celso Ubirajara Russomanno",
+    "mail": "dep.celsorussomanno@camara.leg.br"
+  },
+  {
+    "id": "204496",
+    "cargo": "Deputado Celso Sabino",
+    "partido": "PSDB",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Celso Sabino De Oliveira",
+    "mail": "dep.celsosabino@camara.leg.br"
+  },
+  {
+    "id": "204504",
+    "cargo": "Deputado Cezinha De Madureira",
+    "partido": "PSD",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Antonio Cezar Correia Freire",
+    "mail": "dep.cezinhademadureira@camara.leg.br"
+  },
+  {
+    "id": "205476",
+    "cargo": "Deputado Charles Fernandes",
+    "partido": "PSD",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Charles Fernandes Silveira Santana",
+    "mail": "dep.charlesfernandes@camara.leg.br"
+  },
+  {
+    "id": "204490",
+    "cargo": "Deputado Charlles Evangelista",
+    "partido": "PSL",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Charlles Thomacelli Evangelista",
+    "mail": "dep.charllesevangelista@camara.leg.br"
+  },
+  {
+    "id": "141439",
+    "cargo": "Deputado Chico D'angelo",
+    "partido": "PDT",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Francisco Jose Dangelo Pinto",
+    "mail": "dep.chicodangelo@camara.leg.br"
+  },
+  {
+    "id": "470",
+    "cargo": "Senador Chico Rodrigues",
+    "partido": "DEM",
+    "uf": "RR",
+    "voto": null,
+    "nome": "Francisco de Assis Rodrigues",
+    "mail": "sen.chicorodrigues@senado.leg.br"
+  },
+  {
+    "id": "204476",
+    "cargo": "Deputado Chiquinho Brazão",
+    "partido": "AVANTE",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Joao Francisco Inacio Brazao",
+    "mail": "dep.chiquinhobrazao@camara.leg.br"
+  },
+  {
+    "id": "178928",
+    "cargo": "Deputada Christiane De Souza Yared",
+    "partido": "PL",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Christiane De Souza Yared",
+    "mail": "dep.christianedesouzayared@camara.leg.br"
+  },
+  {
+    "id": "204440",
+    "cargo": "Deputado Christino Aureo",
+    "partido": "PP",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Christino Aureo Da Silva",
+    "mail": "dep.christinoaureo@camara.leg.br"
+  },
+  {
+    "id": "204462",
+    "cargo": "Deputada Chris Tonietto",
+    "partido": "PSL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Christine Nogueira Dos Reis Tonietto",
+    "mail": "dep.christonietto@camara.leg.br"
+  },
+  {
+    "id": "5973",
+    "cargo": "Senador Cid Gomes",
+    "partido": "PDT",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Cid Ferreira Gomes",
+    "mail": "sen.cidgomes@senado.leg.br"
+  },
+  {
+    "id": "739",
+    "cargo": "Senador Ciro Nogueira",
+    "partido": "PP",
+    "uf": "PI",
+    "voto": null,
+    "nome": "Ciro Nogueira Lima Filho",
+    "mail": "sen.cironogueira@senado.leg.br"
+  },
+  {
+    "id": "178939",
+    "cargo": "Deputada Clarissa Garotinho",
+    "partido": "PROS",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Clarissa Barros Assed Matheus De Oliveira",
+    "mail": "dep.clarissagarotinho@camara.leg.br"
+  },
+  {
+    "id": "74537",
+    "cargo": "Deputado Claudio Cajado",
+    "partido": "PP",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Claudio Cajado Sampaio",
+    "mail": "dep.claudiocajado@camara.leg.br"
+  },
+  {
+    "id": "141408",
+    "cargo": "Deputado Cleber Verde",
+    "partido": "REPUBLICANOS",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Cleber Verde Cordeiro Mendes",
+    "mail": "dep.cleberverde@camara.leg.br"
+  },
+  {
+    "id": "475",
+    "cargo": "Senador Confúcio Moura",
+    "partido": "MDB",
+    "uf": "RO",
+    "voto": null,
+    "nome": "Confúcio Aires Moura",
+    "mail": "sen.confuciomoura@senado.leg.br"
+  },
+  {
+    "id": "204376",
+    "cargo": "Deputado Coronel Armando",
+    "partido": "PSL",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Luiz Armando Schroeder Reis",
+    "mail": "dep.coronelarmando@camara.leg.br"
+  },
+  {
+    "id": "204378",
+    "cargo": "Deputado Coronel Chrisóstomo",
+    "partido": "PSL",
+    "uf": "RO",
+    "voto": null,
+    "nome": "Joao Chrisostomo De Moura",
+    "mail": "dep.coronelchrisostomo@camara.leg.br"
+  },
+  {
+    "id": "204514",
+    "cargo": "Deputado Coronel Tadeu",
+    "partido": "PSL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Marcio Tadeu Anhaia De Lemos",
+    "mail": "dep.coroneltadeu@camara.leg.br"
+  },
+  {
+    "id": "135054",
+    "cargo": "Deputado Cristiano Vale",
+    "partido": "PL",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Cristiano Dutra Vale",
+    "mail": "dep.cristianovale@camara.leg.br"
+  },
+  {
+    "id": "141411",
+    "cargo": "Deputado Dagoberto Nogueira",
+    "partido": "PDT",
+    "uf": "MS",
+    "voto": null,
+    "nome": "Dagoberto Nogueira Filho",
+    "mail": "dep.dagobertonogueira@camara.leg.br"
+  },
+  {
+    "id": "74467",
+    "cargo": "Deputado Damião Feliciano",
+    "partido": "PDT",
+    "uf": "PB",
+    "voto": null,
+    "nome": "Damiao Feliciano Da Silva",
+    "mail": "dep.damiaofeliciano@camara.leg.br"
+  },
+  {
+    "id": "204459",
+    "cargo": "Deputada Daniela Do Waguinho",
+    "partido": "MDB",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Daniela Mote De Souza Carneiro",
+    "mail": "dep.danieladowaguinho@camara.leg.br"
+  },
+  {
+    "id": "74060",
+    "cargo": "Deputado Daniel Almeida",
+    "partido": "PCdoB",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Daniel Gomes De Almeida",
+    "mail": "dep.danielalmeida@camara.leg.br"
+  },
+  {
+    "id": "178916",
+    "cargo": "Deputado Daniel Coelho",
+    "partido": "CIDADANIA",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Daniel Pires Coelho",
+    "mail": "dep.danielcoelho@camara.leg.br"
+  },
+  {
+    "id": "204367",
+    "cargo": "Deputado Daniel Freitas",
+    "partido": "PSL",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Daniel Costa De Freitas",
+    "mail": "dep.danielfreitas@camara.leg.br"
+  },
+  {
+    "id": "5998",
+    "cargo": "Senadora Daniella Ribeiro",
+    "partido": "PP",
+    "uf": "PB",
+    "voto": null,
+    "nome": "Daniella Velloso Borges Ribeiro",
+    "mail": "sen.daniellaribeiro@senado.leg.br"
+  },
+  {
+    "id": "204454",
+    "cargo": "Deputado Daniel Silveira",
+    "partido": "PSL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Daniel Lucio Da Silveira",
+    "mail": "dep.danielsilveira@camara.leg.br"
+  },
+  {
+    "id": "204409",
+    "cargo": "Deputado Daniel Trzeciak",
+    "partido": "PSDB",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Daniel Trzeciak Duarte",
+    "mail": "dep.danieltrzeciak@camara.leg.br"
+  },
+  {
+    "id": "160528",
+    "cargo": "Deputado Danilo Cabral",
+    "partido": "PSB",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Danilo Jorge De Barros Cabral",
+    "mail": "dep.danilocabral@camara.leg.br"
+  },
+  {
+    "id": "160552",
+    "cargo": "Deputado Danrlei De Deus Hinterholz",
+    "partido": "PSD",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Danrlei De Deus Hinterholz",
+    "mail": "dep.danrleidedeushinterholz@camara.leg.br"
+  },
+  {
+    "id": "116379",
+    "cargo": "Deputado Darci De Matos",
+    "partido": "PSD",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Darci De Matos",
+    "mail": "dep.darcidematos@camara.leg.br"
+  },
+  {
+    "id": "5537",
+    "cargo": "Senador Dário Berger",
+    "partido": "MDB",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Dário Elias Berger",
+    "mail": "(61) 3303-5955"
+  },
+  {
+    "id": "3830",
+    "cargo": "Senador Davi Alcolumbre",
+    "partido": "DEM",
+    "uf": "AP",
+    "voto": null,
+    "nome": "David Samuel Alcolumbre Tobelem",
+    "mail": "sen.davialcolumbre@senado.leg.br"
+  },
+  {
+    "id": "205548",
+    "cargo": "Deputado David Miranda",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "David Michael Dos Santos Miranda",
+    "mail": "dep.davidmiranda@camara.leg.br"
+  },
+  {
+    "id": "204511",
+    "cargo": "Deputado David Soares",
+    "partido": "DEM",
+    "uf": "SP",
+    "voto": null,
+    "nome": "David Bezerra Ribeiro Soares",
+    "mail": "dep.davidsoares@camara.leg.br"
+  },
+  {
+    "id": "204355",
+    "cargo": "Deputado Da Vitoria",
+    "partido": "CIDADANIA",
+    "uf": "ES",
+    "voto": null,
+    "nome": "Josias Mario Da Vitoria",
+    "mail": "dep.davitoria@camara.leg.br"
+  },
+  {
+    "id": "204451",
+    "cargo": "Deputado Delegado Antônio Furtado",
+    "partido": "PSL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Antonio Da Luz Furtado",
+    "mail": "dep.delegadoantoniofurtado@camara.leg.br"
+  },
+  {
+    "id": "178908",
+    "cargo": "Deputado Delegado Éder Mauro",
+    "partido": "PSD",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Eder Mauro Cardoso Barra",
+    "mail": "dep.delegadoedermauro@camara.leg.br"
+  },
+  {
+    "id": "204512",
+    "cargo": "Deputado Delegado Marcelo Freitas",
+    "partido": "PSL",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Marcelo Eduardo Freitas",
+    "mail": "dep.delegadomarcelofreitas@camara.leg.br"
+  },
+  {
+    "id": "204569",
+    "cargo": "Deputado Delegado Pablo",
+    "partido": "PSL",
+    "uf": "AM",
+    "voto": null,
+    "nome": "Pablo Oliva Souza",
+    "mail": "dep.delegadopablo@camara.leg.br"
+  },
+  {
+    "id": "164359",
+    "cargo": "Deputado Delegado Waldir",
+    "partido": "PSL",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Waldir Soares De Oliveira",
+    "mail": "dep.delegadowaldir@camara.leg.br"
+  },
+  {
+    "id": "204542",
+    "cargo": "Deputado Denis Bezerra",
+    "partido": "PSB",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Denis Anderson Da Rocha Bezerra",
+    "mail": "dep.denisbezerra@camara.leg.br"
+  },
+  {
+    "id": "160588",
+    "cargo": "Deputado Diego Andrade",
+    "partido": "PSD",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Diego Leonardo De Andrade Carvalho",
+    "mail": "dep.diegoandrade@camara.leg.br"
+  },
+  {
+    "id": "178929",
+    "cargo": "Deputado Diego Garcia",
+    "partido": "PODE",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Diego Alexsander Goncalo Paula Garcia",
+    "mail": "dep.diegogarcia@camara.leg.br"
+  },
+  {
+    "id": "160599",
+    "cargo": "Deputado Dimas Fabiano",
+    "partido": "PP",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Dimas Fabiano Toledo Junior",
+    "mail": "dep.dimasfabiano@camara.leg.br"
+  },
+  {
+    "id": "143632",
+    "cargo": "Deputado Domingos Neto",
+    "partido": "PSD",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Domingos Gomes De Aguiar Neto",
+    "mail": "dep.domingosneto@camara.leg.br"
+  },
+  {
+    "id": "160758",
+    "cargo": "Deputado Domingos Sávio",
+    "partido": "PSDB",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Domingos Savio Campos Resende",
+    "mail": "dep.domingossavio@camara.leg.br"
+  },
+  {
+    "id": "204518",
+    "cargo": "Deputado Dr. Frederico",
+    "partido": "PATRIOTA",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Frederico De Castro Escaleira",
+    "mail": "dep.dr.frederico@camara.leg.br"
+  },
+  {
+    "id": "204481",
+    "cargo": "Deputado Dr. Jaziel",
+    "partido": "PL",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Jaziel Pereira De Sousa",
+    "mail": "dep.dr.jaziel@camara.leg.br"
+  },
+  {
+    "id": "204439",
+    "cargo": "Deputado Dr. Leonardo",
+    "partido": "SOLIDARIEDADE",
+    "uf": "MT",
+    "voto": null,
+    "nome": "Leonardo Ribeiro Albuquerque",
+    "mail": "dep.dr.leonardo@camara.leg.br"
+  },
+  {
+    "id": "204450",
+    "cargo": "Deputado Dr. Luiz Antonio Teixeira Jr.",
+    "partido": "PP",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Luiz Antonio De Souza Teixeira Junior",
+    "mail": "dep.dr.luizantonioteixeirajr@camara.leg.br"
+  },
+  {
+    "id": "204351",
+    "cargo": "Deputado Dr. Luiz Ovando",
+    "partido": "PSL",
+    "uf": "MS",
+    "voto": null,
+    "nome": "Luiz Alberto Ovando",
+    "mail": "dep.dr.luizovando@camara.leg.br"
+  },
+  {
+    "id": "178830",
+    "cargo": "Deputado Dr. Sinval Malheiros",
+    "partido": "PODE",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Sinval Malheiros Pinto Junior",
+    "mail": "dep.dr.sinvalmalheiros@camara.leg.br"
+  },
+  {
+    "id": "204412",
+    "cargo": "Deputado Dr. Zacharias Calil",
+    "partido": "DEM",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Zacarias Calil Hamu",
+    "mail": "dep.dr.zachariascalil@camara.leg.br"
+  },
+  {
+    "id": "81297",
+    "cargo": "Deputada Dra. Soraya Manato",
+    "partido": "PSL",
+    "uf": "ES",
+    "voto": null,
+    "nome": "Soraya De Souza Mannato",
+    "mail": "dep.dra.sorayamanato@camara.leg.br"
+  },
+  {
+    "id": "204434",
+    "cargo": "Deputada Dra. Vanda Milani",
+    "partido": "SOLIDARIEDADE",
+    "uf": "AC",
+    "voto": null,
+    "nome": "Vanda Denir Milani Nogueira",
+    "mail": "dep.dra.vandamilani@camara.leg.br"
+  },
+  {
+    "id": "178994",
+    "cargo": "Deputada Dulce Miranda",
+    "partido": "MDB",
+    "uf": "TO",
+    "voto": null,
+    "nome": "Dulce Ferreira Pagani Miranda",
+    "mail": "dep.dulcemiranda@camara.leg.br"
+  },
+  {
+    "id": "204562",
+    "cargo": "Deputado Edilázio Júnior",
+    "partido": "PSD",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Edilazio Gomes Da Silva Junior",
+    "mail": "dep.edilaziojunior@camara.leg.br"
+  },
+  {
+    "id": "141417",
+    "cargo": "Deputado Edio Lopes",
+    "partido": "PL",
+    "uf": "RR",
+    "voto": null,
+    "nome": "Edio Vieira Lopes",
+    "mail": "dep.ediolopes@camara.leg.br"
+  },
+  {
+    "id": "134812",
+    "cargo": "Deputado Edmilson Rodrigues",
+    "partido": "PSOL",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Edmilson Brito Rodrigues",
+    "mail": "dep.edmilsonrodrigues@camara.leg.br"
+  },
+  {
+    "id": "204421",
+    "cargo": "Deputada Edna Henrique",
+    "partido": "PSDB",
+    "uf": "PB",
+    "voto": null,
+    "nome": "Ednace Alves Silvestre Henrique",
+    "mail": "dep.ednahenrique@camara.leg.br"
+  },
+  {
+    "id": "74655",
+    "cargo": "Deputado Eduardo Barbosa",
+    "partido": "PSDB",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Eduardo Luiz Barros Barbosa",
+    "mail": "dep.eduardobarbosa@camara.leg.br"
+  },
+  {
+    "id": "204541",
+    "cargo": "Deputado Eduardo Bismarck",
+    "partido": "PDT",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Eduardo Henrique Maia Bismarck",
+    "mail": "dep.eduardobismarck@camara.leg.br"
+  },
+  {
+    "id": "92346",
+    "cargo": "Deputado Eduardo Bolsonaro",
+    "partido": "PSL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Eduardo Nantes Bolsonaro",
+    "mail": "dep.eduardobolsonaro@camara.leg.br"
+  },
+  {
+    "id": "4994",
+    "cargo": "Senador Eduardo Braga",
+    "partido": "MDB",
+    "uf": "AM",
+    "voto": null,
+    "nome": "Carlos Eduardo de Souza Braga",
+    "mail": "sen.eduardobraga@senado.leg.br"
+  },
+  {
+    "id": "204552",
+    "cargo": "Deputado Eduardo Braide",
+    "partido": "PODE",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Eduardo Salim Braide",
+    "mail": "dep.eduardobraide@camara.leg.br"
+  },
+  {
+    "id": "204500",
+    "cargo": "Deputado Eduardo Costa",
+    "partido": "PTB",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Jose Eduardo Pereira Da Costa",
+    "mail": "dep.eduardocosta@camara.leg.br"
+  },
+  {
+    "id": "178977",
+    "cargo": "Deputado Eduardo Cury",
+    "partido": "PSDB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Eduardo Pedrosa Cury",
+    "mail": "dep.eduardocury@camara.leg.br"
+  },
+  {
+    "id": "141421",
+    "cargo": "Deputado Eduardo Da Fonte",
+    "partido": "PP",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Eduardo Henrique Da Fonte De Albuquerque Silva",
+    "mail": "dep.eduardodafonte@camara.leg.br"
+  },
+  {
+    "id": "5976",
+    "cargo": "Senador Eduardo Girão",
+    "partido": "PODEMOS",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Luis Eduardo Grangeiro Girão",
+    "mail": "sen.eduardogirao@senado.leg.br"
+  },
+  {
+    "id": "3777",
+    "cargo": "Senador Eduardo Gomes",
+    "partido": "MDB",
+    "uf": "TO",
+    "voto": null,
+    "nome": "Carlos Eduardo Torres Gomes",
+    "mail": "(61) 3303-6354"
+  },
+  {
+    "id": "141422",
+    "cargo": "Deputado Efraim Filho",
+    "partido": "DEM",
+    "uf": "PB",
+    "voto": null,
+    "nome": "Efraim De Araujo Morais Filho",
+    "mail": "dep.efraimfilho@camara.leg.br"
+  },
+  {
+    "id": "74075",
+    "cargo": "Deputada Elcione Barbalho",
+    "partido": "MDB",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Elcione Therezinha Zahluth Barbalho",
+    "mail": "dep.elcionebarbalho@camara.leg.br"
+  },
+  {
+    "id": "204389",
+    "cargo": "Deputado Elias Vaz",
+    "partido": "PSB",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Elias Vaz De Andrade",
+    "mail": "dep.eliasvaz@camara.leg.br"
+  },
+  {
+    "id": "204364",
+    "cargo": "Deputado Eli Borges",
+    "partido": "SOLIDARIEDADE",
+    "uf": "TO",
+    "voto": null,
+    "nome": "Eli Dias Borges",
+    "mail": "dep.eliborges@camara.leg.br"
+  },
+  {
+    "id": "160532",
+    "cargo": "Deputado Eli Corrêa Filho",
+    "partido": "DEM",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Adriano Eli Correa",
+    "mail": "dep.elicorreafilho@camara.leg.br"
+  },
+  {
+    "id": "5718",
+    "cargo": "Senadora Eliziane Gama",
+    "partido": "CIDADANIA",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Eliziane Pereira Gama Melo",
+    "mail": "sen.elizianegama@senado.leg.br"
+  },
+  {
+    "id": "5531",
+    "cargo": "Senador Elmano Férrer",
+    "partido": "PODEMOS",
+    "uf": "PI",
+    "voto": null,
+    "nome": "Elmano Férrer de Almeida",
+    "mail": "sen.elmanoferrer@senado.leg.br"
+  },
+  {
+    "id": "178854",
+    "cargo": "Deputado Elmar Nascimento",
+    "partido": "DEM",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Elmar Jose Vieira Nascimento",
+    "mail": "dep.elmarnascimento@camara.leg.br"
+  },
+  {
+    "id": "198783",
+    "cargo": "Deputado Emanuel Pinheiro Neto",
+    "partido": "PTB",
+    "uf": "MT",
+    "voto": null,
+    "nome": "Emanuel Pinheiro Da Silva Primo",
+    "mail": "dep.emanuelpinheironeto@camara.leg.br"
+  },
+  {
+    "id": "161550",
+    "cargo": "Deputado Emidinho Madeira",
+    "partido": "PSB",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Emidio Alves Madeira Junior",
+    "mail": "dep.emidinhomadeira@camara.leg.br"
+  },
+  {
+    "id": "207309",
+    "cargo": "Deputado Enéias Reis",
+    "partido": "PSL",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Eneias Jose Dos Reis",
+    "mail": "dep.eneiasreis@camara.leg.br"
+  },
+  {
+    "id": "132504",
+    "cargo": "Deputado Enio Verri",
+    "partido": "PT",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Enio Jose Verri",
+    "mail": "dep.enioverri@camara.leg.br"
+  },
+  {
+    "id": "204537",
+    "cargo": "Deputado Enrico Misasi",
+    "partido": "PV",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Enrico Van Blarcum De Graaff Misasi",
+    "mail": "dep.enricomisasi@camara.leg.br"
+  },
+  {
+    "id": "160575",
+    "cargo": "Deputada Erika Kokay",
+    "partido": "PT",
+    "uf": "DF",
+    "voto": null,
+    "nome": "Erika Juca Kokay",
+    "mail": "dep.erikakokay@camara.leg.br"
+  },
+  {
+    "id": "160640",
+    "cargo": "Deputado Eros Biondini",
+    "partido": "PROS",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Eros Ferreira Biondini",
+    "mail": "dep.erosbiondini@camara.leg.br"
+  },
+  {
+    "id": "22",
+    "cargo": "Senador Esperidião Amin",
+    "partido": "PP",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Esperidião Amin Helou Filho",
+    "mail": "sen.esperidiaoamin@senado.leg.br"
+  },
+  {
+    "id": "204482",
+    "cargo": "Deputado Euclydes Pettersen",
+    "partido": "PSC",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Euclydes Marcos Pettersen Neto",
+    "mail": "dep.euclydespettersen@camara.leg.br"
+  },
+  {
+    "id": "178871",
+    "cargo": "Deputado Evair Vieira De Melo",
+    "partido": "PP",
+    "uf": "ES",
+    "voto": null,
+    "nome": "Evair Vieira De Melo",
+    "mail": "dep.evairvieirademelo@camara.leg.br"
+  },
+  {
+    "id": "178953",
+    "cargo": "Deputado Expedito Netto",
+    "partido": "PSD",
+    "uf": "RO",
+    "voto": null,
+    "nome": "Expedito Goncalves Ferreira Netto",
+    "mail": "dep.expeditonetto@camara.leg.br"
+  },
+  {
+    "id": "5953",
+    "cargo": "Senador Fabiano Contarato",
+    "partido": "REDE",
+    "uf": "ES",
+    "voto": null,
+    "nome": "Fabiano Contarato",
+    "mail": "sen.fabianocontarato@senado.leg.br"
+  },
+  {
+    "id": "141428",
+    "cargo": "Deputado Fábio Faria",
+    "partido": "PSD",
+    "uf": "RN",
+    "voto": null,
+    "nome": "Fabio Salustino Mesquita De Faria",
+    "mail": "dep.fabiofaria@camara.leg.br"
+  },
+  {
+    "id": "68720",
+    "cargo": "Deputado Fábio Henrique",
+    "partido": "PDT",
+    "uf": "SE",
+    "voto": null,
+    "nome": "Fabio Henrique Santana De Carvalho",
+    "mail": "dep.fabiohenrique@camara.leg.br"
+  },
+  {
+    "id": "178969",
+    "cargo": "Deputado Fábio Mitidieri",
+    "partido": "PSD",
+    "uf": "SE",
+    "voto": null,
+    "nome": "Fabio Cruz Mitidieri",
+    "mail": "dep.fabiomitidieri@camara.leg.br"
+  },
+  {
+    "id": "141427",
+    "cargo": "Deputado Fábio Ramalho",
+    "partido": "MDB",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Fabio Augusto Ramalho Dos Santos",
+    "mail": "dep.fabioramalho@camara.leg.br"
+  },
+  {
+    "id": "171623",
+    "cargo": "Deputado Fabio Reis",
+    "partido": "MDB",
+    "uf": "SE",
+    "voto": null,
+    "nome": "Fabio De Almeida Reis",
+    "mail": "dep.fabioreis@camara.leg.br"
+  },
+  {
+    "id": "204368",
+    "cargo": "Deputado Fabio Schiochet",
+    "partido": "PSL",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Fabio Luiz Schiochet Filho",
+    "mail": "dep.fabioschiochet@camara.leg.br"
+  },
+  {
+    "id": "160587",
+    "cargo": "Deputado Fábio Trad",
+    "partido": "PSD",
+    "uf": "MS",
+    "voto": null,
+    "nome": "Fabio Ricardo Trad",
+    "mail": "dep.fabiotrad@camara.leg.br"
+  },
+  {
+    "id": "66828",
+    "cargo": "Deputado Fausto Pinato",
+    "partido": "PP",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Fausto Ruy Pinato",
+    "mail": "dep.faustopinato@camara.leg.br"
+  },
+  {
+    "id": "204477",
+    "cargo": "Deputado Felício Laterça",
+    "partido": "PSL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Felicio Laterca De Almeida",
+    "mail": "dep.feliciolaterca@camara.leg.br"
+  },
+  {
+    "id": "72442",
+    "cargo": "Deputado Felipe Carreras",
+    "partido": "PSB",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Felipe Augusto Lyra Carreras",
+    "mail": "dep.felipecarreras@camara.leg.br"
+  },
+  {
+    "id": "204398",
+    "cargo": "Deputado Felipe Francischini",
+    "partido": "PSL",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Luis Felipe Bonatto Francischini",
+    "mail": "dep.felipefrancischini@camara.leg.br"
+  },
+  {
+    "id": "204371",
+    "cargo": "Deputado Felipe Rigoni",
+    "partido": "PSB",
+    "uf": "ES",
+    "voto": null,
+    "nome": "Felipe Rigoni Lopes",
+    "mail": "dep.feliperigoni@camara.leg.br"
+  },
+  {
+    "id": "160666",
+    "cargo": "Deputado Félix Mendonça Júnior",
+    "partido": "PDT",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Felix De Almeida Mendonca Junior",
+    "mail": "dep.felixmendoncajunior@camara.leg.br"
+  },
+  {
+    "id": "204407",
+    "cargo": "Deputada Fernanda Melchionna",
+    "partido": "PSOL",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Fernanda Melchionna E Silva",
+    "mail": "dep.fernandamelchionna@camara.leg.br"
+  },
+  {
+    "id": "5540",
+    "cargo": "Senador Fernando Bezerra Coelho",
+    "partido": "MDB",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Fernando Bezerra de Souza Coelho",
+    "mail": "(61) 3303-2189"
+  },
+  {
+    "id": "141431",
+    "cargo": "Deputado Fernando Coelho Filho",
+    "partido": "DEM",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Fernando Bezerra De Souza Coelho Filho",
+    "mail": "dep.fernandocoelhofilho@camara.leg.br"
+  },
+  {
+    "id": "4525",
+    "cargo": "Senador Fernando Collor",
+    "partido": "PROS",
+    "uf": "AL",
+    "voto": null,
+    "nome": "Fernando Affonso Collor de Mello",
+    "mail": "(61) 3303-5789"
+  },
+  {
+    "id": "92699",
+    "cargo": "Deputado Fernando Monteiro",
+    "partido": "PP",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Fernando Monteiro De Albuquerque",
+    "mail": "dep.fernandomonteiro@camara.leg.br"
+  },
+  {
+    "id": "204427",
+    "cargo": "Deputado Fernando Rodolfo",
+    "partido": "PL",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Fernando Rodolfo Tenorio De Vasconcelos",
+    "mail": "dep.fernandorodolfo@camara.leg.br"
+  },
+  {
+    "id": "204411",
+    "cargo": "Deputado Filipe Barros",
+    "partido": "PSL",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Filipe Barros Baptista De Toledo Ribeiro",
+    "mail": "dep.filipebarros@camara.leg.br"
+  },
+  {
+    "id": "204354",
+    "cargo": "Deputada Flávia Arruda",
+    "partido": "PL",
+    "uf": "DF",
+    "voto": null,
+    "nome": "Flavia Carolina Peres",
+    "mail": "dep.flaviaarruda@camara.leg.br"
+  },
+  {
+    "id": "160598",
+    "cargo": "Deputada Flávia Morais",
+    "partido": "PDT",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Flavia Carreiro Albuquerque Morais",
+    "mail": "dep.flaviamorais@camara.leg.br"
+  },
+  {
+    "id": "141434",
+    "cargo": "Deputado Flaviano Melo",
+    "partido": "MDB",
+    "uf": "AC",
+    "voto": null,
+    "nome": "Flaviano Flavio Baptista De Melo",
+    "mail": "dep.flavianomelo@camara.leg.br"
+  },
+  {
+    "id": "345",
+    "cargo": "Senador Flávio Arns",
+    "partido": "REDE",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Flávio José Arns",
+    "mail": "sen.flavioarns@senado.leg.br"
+  },
+  {
+    "id": "5894",
+    "cargo": "Senador Flávio Bolsonaro",
+    "partido": "REPUBLICANOS",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Flávio Nantes Bolsonaro",
+    "mail": "sen.flaviobolsonaro@senado.leg.br"
+  },
+  {
+    "id": "191923",
+    "cargo": "Deputado Flávio Nogueira",
+    "partido": "PDT",
+    "uf": "PI",
+    "voto": null,
+    "nome": "Flavio Rodrigues Nogueira",
+    "mail": "dep.flavionogueira@camara.leg.br"
+  },
+  {
+    "id": "204447",
+    "cargo": "Deputada Flordelis",
+    "partido": "PSD",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Flordelis Dos Santos De Souza",
+    "mail": "dep.flordelis@camara.leg.br"
+  },
+  {
+    "id": "204392",
+    "cargo": "Deputado Francisco Jr.",
+    "partido": "PSD",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Francisco Rodrigues Vale Junior",
+    "mail": "dep.franciscojr@camara.leg.br"
+  },
+  {
+    "id": "204510",
+    "cargo": "Deputado Franco Cartafina",
+    "partido": "PP",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Franco Cartafina Gomes",
+    "mail": "dep.francocartafina@camara.leg.br"
+  },
+  {
+    "id": "204494",
+    "cargo": "Deputado Fred Costa",
+    "partido": "PATRIOTA",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Frederico Borges Da Costa",
+    "mail": "dep.fredcosta@camara.leg.br"
+  },
+  {
+    "id": "204393",
+    "cargo": "Deputado Frei Anastacio Ribeiro",
+    "partido": "PT",
+    "uf": "PB",
+    "voto": null,
+    "nome": "Antonio Ribeiro",
+    "mail": "dep.freianastacioribeiro@camara.leg.br"
+  },
+  {
+    "id": "74200",
+    "cargo": "Deputado Gastão Vieira",
+    "partido": "PROS",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Gastao Dias Vieira",
+    "mail": "dep.gastaovieira@camara.leg.br"
+  },
+  {
+    "id": "115746",
+    "cargo": "Deputado Gelson Azevedo",
+    "partido": "PL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Gelson De Azevedo Almeida",
+    "mail": "dep.gelsonazevedo@camara.leg.br"
+  },
+  {
+    "id": "160669",
+    "cargo": "Deputado Genecias Noronha",
+    "partido": "SOLIDARIEDADE",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Genecias Mateus Noronha",
+    "mail": "dep.geneciasnoronha@camara.leg.br"
+  },
+  {
+    "id": "204473",
+    "cargo": "Deputado General Girão",
+    "partido": "PSL",
+    "uf": "RN",
+    "voto": null,
+    "nome": "Elieser Girao Monteiro Filho",
+    "mail": "dep.generalgirao@camara.leg.br"
+  },
+  {
+    "id": "204484",
+    "cargo": "Deputado General Peternelli",
+    "partido": "PSL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Roberto Sebastiao Peternelli Junior",
+    "mail": "dep.generalpeternelli@camara.leg.br"
+  },
+  {
+    "id": "204527",
+    "cargo": "Deputado Geninho Zuliani",
+    "partido": "DEM",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Eugenio Jose Zuliani",
+    "mail": "dep.geninhozuliani@camara.leg.br"
+  },
+  {
+    "id": "178966",
+    "cargo": "Deputada Geovania De Sá",
+    "partido": "PSDB",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Geovania De Sa",
+    "mail": "dep.geovaniadesa@camara.leg.br"
+  },
+  {
+    "id": "204394",
+    "cargo": "Deputado Gervásio Maia",
+    "partido": "PSB",
+    "uf": "PB",
+    "voto": null,
+    "nome": "Gervasio Agripino Maia",
+    "mail": "dep.gervasiomaia@camara.leg.br"
+  },
+  {
+    "id": "74383",
+    "cargo": "Deputado Giacobo",
+    "partido": "PL",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Fernando Lucio Giacobo",
+    "mail": "dep.giacobo@camara.leg.br"
+  },
+  {
+    "id": "204491",
+    "cargo": "Deputado Gilberto Abramo",
+    "partido": "REPUBLICANOS",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Gilberto Aparecido Abramo",
+    "mail": "dep.gilbertoabramo@camara.leg.br"
+  },
+  {
+    "id": "74270",
+    "cargo": "Deputado Gilberto Nascimento",
+    "partido": "PSC",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Gilberto Nascimento Silva",
+    "mail": "dep.gilbertonascimento@camara.leg.br"
+  },
+  {
+    "id": "204575",
+    "cargo": "Deputado Gil Cutrim",
+    "partido": "PDT",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Gilliano Fred Nascimento Cutrim",
+    "mail": "dep.gilcutrim@camara.leg.br"
+  },
+  {
+    "id": "204570",
+    "cargo": "Deputado Gildenemyr",
+    "partido": "PL",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Gildenemir De Lima Sousa",
+    "mail": "dep.gildenemyr@camara.leg.br"
+  },
+  {
+    "id": "204365",
+    "cargo": "Deputado Gilson Marques",
+    "partido": "NOVO",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Gilson Marques Vieira",
+    "mail": "dep.gilsonmarques@camara.leg.br"
+  },
+  {
+    "id": "160673",
+    "cargo": "Deputado Giovani Cherini",
+    "partido": "PL",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Giovani Cherini",
+    "mail": "dep.giovanicherini@camara.leg.br"
+  },
+  {
+    "id": "178996",
+    "cargo": "Deputado Giovani Feltes",
+    "partido": "MDB",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Giovani Batista Feltes",
+    "mail": "dep.giovanifeltes@camara.leg.br"
+  },
+  {
+    "id": "152605",
+    "cargo": "Deputado Glauber Braga",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Glauber De Medeiros Braga",
+    "mail": "dep.glauberbraga@camara.leg.br"
+  },
+  {
+    "id": "204419",
+    "cargo": "Deputado Glaustin Fokus",
+    "partido": "PSC",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Glauskston Batista Rios",
+    "mail": "dep.glaustinfokus@camara.leg.br"
+  },
+  {
+    "id": "107283",
+    "cargo": "Deputada Gleisi Hoffmann",
+    "partido": "PT",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Gleisi Helena Hoffmann",
+    "mail": "dep.gleisihoffmann@camara.leg.br"
+  },
+  {
+    "id": "74419",
+    "cargo": "Deputado Gonzaga Patriota",
+    "partido": "PSB",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Luiz Gonzaga Patriota",
+    "mail": "dep.gonzagapatriota@camara.leg.br"
+  },
+  {
+    "id": "198197",
+    "cargo": "Deputada Greyce Elias",
+    "partido": "AVANTE",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Greyce De Queiroz Elias",
+    "mail": "dep.greyceelias@camara.leg.br"
+  },
+  {
+    "id": "204513",
+    "cargo": "Deputado Guiga Peixoto",
+    "partido": "PSL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Jose Guilherme Negrao Peixoto",
+    "mail": "dep.guigapeixoto@camara.leg.br"
+  },
+  {
+    "id": "204531",
+    "cargo": "Deputado Guilherme Derrite",
+    "partido": "PP",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Guilherme Muraro Derrite",
+    "mail": "dep.guilhermederrite@camara.leg.br"
+  },
+  {
+    "id": "160667",
+    "cargo": "Deputado Guilherme Mussi",
+    "partido": "PP",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Guilherme Mussi Ferreira",
+    "mail": "dep.guilhermemussi@camara.leg.br"
+  },
+  {
+    "id": "204442",
+    "cargo": "Deputado Gurgel",
+    "partido": "PSL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Joao Carlos Soares Gurgel",
+    "mail": "dep.gurgel@camara.leg.br"
+  },
+  {
+    "id": "73460",
+    "cargo": "Deputado Gustavo Fruet",
+    "partido": "PDT",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Gustavo Bonato Fruet",
+    "mail": "dep.gustavofruet@camara.leg.br"
+  },
+  {
+    "id": "204408",
+    "cargo": "Deputado Gustinho Ribeiro",
+    "partido": "SOLIDARIEDADE",
+    "uf": "SE",
+    "voto": null,
+    "nome": "Luiz Augusto Carvalho Ribeiro Filho",
+    "mail": "dep.gustinhoribeiro@camara.leg.br"
+  },
+  {
+    "id": "204456",
+    "cargo": "Deputado Gutemberg Reis",
+    "partido": "MDB",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Gutemberg Reis De Oliveira",
+    "mail": "dep.gutembergreis@camara.leg.br"
+  },
+  {
+    "id": "204465",
+    "cargo": "Deputado Haroldo Cathedral",
+    "partido": "PSD",
+    "uf": "RR",
+    "voto": null,
+    "nome": "Haroldo Alves Campos",
+    "mail": "dep.haroldocathedral@camara.leg.br"
+  },
+  {
+    "id": "204548",
+    "cargo": "Deputado Heitor Freire",
+    "partido": "PSL",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Heitor Rodrigo Pereira Freire",
+    "mail": "dep.heitorfreire@camara.leg.br"
+  },
+  {
+    "id": "178964",
+    "cargo": "Deputado Heitor Schuch",
+    "partido": "PSB",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Heitor Jose Schuch",
+    "mail": "dep.heitorschuch@camara.leg.br"
+  },
+  {
+    "id": "178873",
+    "cargo": "Deputado Helder Salomão",
+    "partido": "PT",
+    "uf": "ES",
+    "voto": null,
+    "nome": "Helder Ignacio Salomao",
+    "mail": "dep.heldersalomao@camara.leg.br"
+  },
+  {
+    "id": "204373",
+    "cargo": "Deputado Hélio Costa",
+    "partido": "REPUBLICANOS",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Helio Francisco Da Costa",
+    "mail": "dep.heliocosta@camara.leg.br"
+  },
+  {
+    "id": "178909",
+    "cargo": "Deputado Hélio Leite",
+    "partido": "DEM",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Helio Leite Da Silva",
+    "mail": "dep.helioleite@camara.leg.br"
+  },
+  {
+    "id": "204444",
+    "cargo": "Deputado Helio Lopes",
+    "partido": "PSL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Helio Fernando Barbosa Lopes",
+    "mail": "dep.heliolopes@camara.leg.br"
+  },
+  {
+    "id": "73482",
+    "cargo": "Deputado Henrique Fontana",
+    "partido": "PT",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Henrique Fontana Junior",
+    "mail": "dep.henriquefontana@camara.leg.br"
+  },
+  {
+    "id": "204539",
+    "cargo": "Deputado Hercílio Coelho Diniz",
+    "partido": "MDB",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Hercilio Araujo Diniz Filho",
+    "mail": "dep.herciliocoelhodiniz@camara.leg.br"
+  },
+  {
+    "id": "178981",
+    "cargo": "Deputado Herculano Passos",
+    "partido": "MDB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Herculano Castilho Passos Junior",
+    "mail": "dep.herculanopassos@camara.leg.br"
+  },
+  {
+    "id": "73772",
+    "cargo": "Deputado Hermes Parcianello",
+    "partido": "MDB",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Hermes Parcianello",
+    "mail": "dep.hermesparcianello@camara.leg.br"
+  },
+  {
+    "id": "178884",
+    "cargo": "Deputado Hildo Rocha",
+    "partido": "MDB",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Hildo Augusto Da Rocha Neto",
+    "mail": "dep.hildorocha@camara.leg.br"
+  },
+  {
+    "id": "178959",
+    "cargo": "Deputado Hiran Gonçalves",
+    "partido": "PP",
+    "uf": "RR",
+    "voto": null,
+    "nome": "Hiran Manuel Goncalves Da Silva",
+    "mail": "dep.hirangoncalves@camara.leg.br"
+  },
+  {
+    "id": "141450",
+    "cargo": "Deputado Hugo Leal",
+    "partido": "PSD",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Hugo Leal Melo Da Silva",
+    "mail": "dep.hugoleal@camara.leg.br"
+  },
+  {
+    "id": "160674",
+    "cargo": "Deputado Hugo Motta",
+    "partido": "REPUBLICANOS",
+    "uf": "PB",
+    "voto": null,
+    "nome": "Hugo Motta Wanderley Da Nobrega",
+    "mail": "dep.hugomotta@camara.leg.br"
+  },
+  {
+    "id": "5008",
+    "cargo": "Senador Humberto Costa",
+    "partido": "PT",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Humberto Sérgio Costa Lima",
+    "mail": "sen.humbertocosta@senado.leg.br"
+  },
+  {
+    "id": "204533",
+    "cargo": "Deputado Idilvan Alencar",
+    "partido": "PDT",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Antonio Idilvan De Lima Alencar",
+    "mail": "dep.idilvanalencar@camara.leg.br"
+  },
+  {
+    "id": "204564",
+    "cargo": "Deputado Igor Kannário",
+    "partido": "DEM",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Anderson Machado De Jesus",
+    "mail": "dep.igorkannario@camara.leg.br"
+  },
+  {
+    "id": "204508",
+    "cargo": "Deputado Igor Timo",
+    "partido": "PODE",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Igor Tarciano Timo",
+    "mail": "dep.igortimo@camara.leg.br"
+  },
+  {
+    "id": "67138",
+    "cargo": "Deputada Iracema Portella",
+    "partido": "PP",
+    "uf": "PI",
+    "voto": null,
+    "nome": "Iracema Maria Portella Nunes Nogueira Lima",
+    "mail": "dep.iracemaportella@camara.leg.br"
+  },
+  {
+    "id": "5385",
+    "cargo": "Senador Irajá",
+    "partido": "PSD",
+    "uf": "TO",
+    "voto": null,
+    "nome": "Irajá Silvestre Filho",
+    "mail": "(61) 3303-6474"
+  },
+  {
+    "id": "204436",
+    "cargo": "Deputado Isnaldo Bulhões Jr.",
+    "partido": "MDB",
+    "uf": "AL",
+    "voto": null,
+    "nome": "Isnaldo Bulhoes Barros Junior",
+    "mail": "dep.isnaldobulhoesjr@camara.leg.br"
+  },
+  {
+    "id": "73531",
+    "cargo": "Deputado Ivan Valente",
+    "partido": "PSOL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Ivan Valente",
+    "mail": "dep.ivanvalente@camara.leg.br"
+  },
+  {
+    "id": "4770",
+    "cargo": "Senador Izalci Lucas",
+    "partido": "PSDB",
+    "uf": "DF",
+    "voto": null,
+    "nome": "Izalci Lucas Ferreira",
+    "mail": "sen.izalcilucas@senado.leg.br"
+  },
+  {
+    "id": "35",
+    "cargo": "Senador Jader Barbalho",
+    "partido": "MDB",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Jader Fontenelle Barbalho",
+    "mail": "(61) 3303-9828"
+  },
+  {
+    "id": "74848",
+    "cargo": "Deputada Jandira Feghali",
+    "partido": "PCdoB",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Jandira Feghali",
+    "mail": "dep.jandirafeghali@camara.leg.br"
+  },
+  {
+    "id": "108338",
+    "cargo": "Deputada Jaqueline Cassol",
+    "partido": "PP",
+    "uf": "RO",
+    "voto": null,
+    "nome": "Dirlaine Jaqueline Cassol",
+    "mail": "dep.jaquelinecassol@camara.leg.br"
+  },
+  {
+    "id": "581",
+    "cargo": "Senador Jaques Wagner",
+    "partido": "PT",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Jaques Wagner",
+    "mail": "sen.jaqueswagner@senado.leg.br"
+  },
+  {
+    "id": "4545",
+    "cargo": "Senador Jarbas Vasconcelos",
+    "partido": "MDB",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Jarbas de Andrade Vasconcelos",
+    "mail": "sen.jarbasvasconcelos@senado.leg.br"
+  },
+  {
+    "id": "4531",
+    "cargo": "Senador Jayme Campos",
+    "partido": "DEM",
+    "uf": "MT",
+    "voto": null,
+    "nome": "Jayme Veríssimo de Campos",
+    "mail": "Sen.JaymeCampos@senado.leg.br"
+  },
+  {
+    "id": "5627",
+    "cargo": "Senador Jean Paul Prates",
+    "partido": "PT",
+    "uf": "RN",
+    "voto": null,
+    "nome": "Jean Paul Terra Prates",
+    "mail": "sen.jeanpaulprates@senado.leg.br"
+  },
+  {
+    "id": "74273",
+    "cargo": "Deputado Jefferson Campos",
+    "partido": "PSB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Jefferson Alves De Campos",
+    "mail": "dep.jeffersoncampos@camara.leg.br"
+  },
+  {
+    "id": "160570",
+    "cargo": "Deputado Jerônimo Goergen",
+    "partido": "PP",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Jeronimo Pizzolotto Goergen",
+    "mail": "dep.jeronimogoergen@camara.leg.br"
+  },
+  {
+    "id": "178839",
+    "cargo": "Deputada Jéssica Sales",
+    "partido": "MDB",
+    "uf": "AC",
+    "voto": null,
+    "nome": "Jessica Rojas Sales",
+    "mail": "dep.jessicasales@camara.leg.br"
+  },
+  {
+    "id": "204435",
+    "cargo": "Deputado Jesus Sérgio",
+    "partido": "PDT",
+    "uf": "AC",
+    "voto": null,
+    "nome": "Jesus Sergio De Menezes",
+    "mail": "dep.jesussergio@camara.leg.br"
+  },
+  {
+    "id": "178842",
+    "cargo": "Deputado Jhc",
+    "partido": "PSB",
+    "uf": "AL",
+    "voto": null,
+    "nome": "Joao Henrique Holanda Caldas",
+    "mail": "dep.jhc@camara.leg.br"
+  },
+  {
+    "id": "160531",
+    "cargo": "Deputado Jhonatan De Jesus",
+    "partido": "REPUBLICANOS",
+    "uf": "RR",
+    "voto": null,
+    "nome": "Johnathan Pereira De Jesus",
+    "mail": "dep.jhonatandejesus@camara.leg.br"
+  },
+  {
+    "id": "74366",
+    "cargo": "Deputado João Campos",
+    "partido": "REPUBLICANOS",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Joao Campos De Araujo",
+    "mail": "dep.joaocampos@camara.leg.br"
+  },
+  {
+    "id": "141458",
+    "cargo": "Deputado João Carlos Bacelar",
+    "partido": "PL",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Joao Carlos Paolilo Bacelar Filho",
+    "mail": "dep.joaocarlosbacelar@camara.leg.br"
+  },
+  {
+    "id": "178970",
+    "cargo": "Deputado João Daniel",
+    "partido": "PT",
+    "uf": "SE",
+    "voto": null,
+    "nome": "Joao Somariva Daniel",
+    "mail": "dep.joaodaniel@camara.leg.br"
+  },
+  {
+    "id": "204429",
+    "cargo": "Deputado João H. Campos",
+    "partido": "PSB",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Joao Henrique De Andrade Lima Campos",
+    "mail": "dep.joaohcampos@camara.leg.br"
+  },
+  {
+    "id": "141459",
+    "cargo": "Deputado João Maia",
+    "partido": "PL",
+    "uf": "RN",
+    "voto": null,
+    "nome": "Joao Da Silva Maia",
+    "mail": "dep.joaomaia@camara.leg.br"
+  },
+  {
+    "id": "112437",
+    "cargo": "Deputado João Marcelo Souza",
+    "partido": "MDB",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Joao Marcelo Santos Souza",
+    "mail": "dep.joaomarcelosouza@camara.leg.br"
+  },
+  {
+    "id": "204576",
+    "cargo": "Deputado João Roma",
+    "partido": "REPUBLICANOS",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Joao Inacio Ribeiro Roma Neto",
+    "mail": "dep.joaoroma@camara.leg.br"
+  },
+  {
+    "id": "178910",
+    "cargo": "Deputado Joaquim Passarinho",
+    "partido": "PSD",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Joaquim Passarinho Pinto De Souza Porto",
+    "mail": "dep.joaquimpassarinho@camara.leg.br"
+  },
+  {
+    "id": "204468",
+    "cargo": "Deputada Joenia Wapichana",
+    "partido": "REDE",
+    "uf": "RR",
+    "voto": null,
+    "nome": "Joenia Batista De Carvalho",
+    "mail": "dep.joeniawapichana@camara.leg.br"
+  },
+  {
+    "id": "204546",
+    "cargo": "Deputada Joice Hasselmann",
+    "partido": "PSL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Joice Cristina Hasselmann",
+    "mail": "dep.joicehasselmann@camara.leg.br"
+  },
+  {
+    "id": "205550",
+    "cargo": "Deputado Jorge Braz",
+    "partido": "REPUBLICANOS",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Jorge Braz De Oliveira",
+    "mail": "dep.jorgebraz@camara.leg.br"
+  },
+  {
+    "id": "5895",
+    "cargo": "Senador Jorge Kajuru",
+    "partido": "CIDADANIA",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Jorge Kajuru Reis da Costa Nasser",
+    "mail": "sen.jorgekajuru@senado.leg.br"
+  },
+  {
+    "id": "178857",
+    "cargo": "Deputado Jorge Solla",
+    "partido": "PT",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Jorge Jose Santos Pereira Solla",
+    "mail": "dep.jorgesolla@camara.leg.br"
+  },
+  {
+    "id": "5350",
+    "cargo": "Senador Jorginho Mello",
+    "partido": "PL",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Jorginho dos Santos Mello",
+    "mail": "sen.jorginhomello@senado.leg.br"
+  },
+  {
+    "id": "141464",
+    "cargo": "Deputado José Airton Félix Cirilo",
+    "partido": "PT",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Jose Airton Felix Cirilo Da Silva",
+    "mail": "dep.joseairtonfelixcirilo@camara.leg.br"
+  },
+  {
+    "id": "141470",
+    "cargo": "Deputado José Guimarães",
+    "partido": "PT",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Jose Nobre Guimaraes",
+    "mail": "dep.joseguimaraes@camara.leg.br"
+  },
+  {
+    "id": "209189",
+    "cargo": "Deputado Joseildo Ramos",
+    "partido": "PT",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Joseildo Ribeiro Ramos",
+    "mail": "dep.joseildoramos@camara.leg.br"
+  },
+  {
+    "id": "3361",
+    "cargo": "Senador José Maranhão",
+    "partido": "MDB",
+    "uf": "PB",
+    "voto": null,
+    "nome": "José Targino Maranhão",
+    "mail": "(61) 3303-6493"
+  },
+  {
+    "id": "204386",
+    "cargo": "Deputado Jose Mario Schreiner",
+    "partido": "DEM",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Jose Mario Schreiner",
+    "mail": "dep.josemarioschreiner@camara.leg.br"
+  },
+  {
+    "id": "204472",
+    "cargo": "Deputado José Medeiros",
+    "partido": "PODE",
+    "uf": "MT",
+    "voto": null,
+    "nome": "Jose Antonio Dos Santos Medeiros",
+    "mail": "dep.josemedeiros@camara.leg.br"
+  },
+  {
+    "id": "204391",
+    "cargo": "Deputado José Nelto",
+    "partido": "PODE",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Jose Nelto Lagares Das Mercez",
+    "mail": "dep.josenelto@camara.leg.br"
+  },
+  {
+    "id": "160619",
+    "cargo": "Deputado José Nunes",
+    "partido": "PSD",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Jose Nunes Soares",
+    "mail": "dep.josenunes@camara.leg.br"
+  },
+  {
+    "id": "74079",
+    "cargo": "Deputado José Priante",
+    "partido": "MDB",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Jose Benito Priante Junior",
+    "mail": "dep.josepriante@camara.leg.br"
+  },
+  {
+    "id": "204555",
+    "cargo": "Deputado José Ricardo",
+    "partido": "PT",
+    "uf": "AM",
+    "voto": null,
+    "nome": "Jose Ricardo Wendling",
+    "mail": "dep.josericardo@camara.leg.br"
+  },
+  {
+    "id": "74554",
+    "cargo": "Deputado José Rocha",
+    "partido": "PL",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Jose Alves Rocha",
+    "mail": "dep.joserocha@camara.leg.br"
+  },
+  {
+    "id": "90",
+    "cargo": "Senador José Serra",
+    "partido": "PSDB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "José Serra",
+    "mail": "(61) 3303-6659"
+  },
+  {
+    "id": "204474",
+    "cargo": "Deputado Juarez Costa",
+    "partido": "MDB",
+    "uf": "MT",
+    "voto": null,
+    "nome": "Juarez Alves Da Costa",
+    "mail": "dep.juarezcosta@camara.leg.br"
+  },
+  {
+    "id": "204420",
+    "cargo": "Deputado Julian Lemos",
+    "partido": "PSL",
+    "uf": "PB",
+    "voto": null,
+    "nome": "Gulliem Charles Bezerra Lemos",
+    "mail": "dep.julianlemos@camara.leg.br"
+  },
+  {
+    "id": "74317",
+    "cargo": "Deputado Júlio Cesar",
+    "partido": "PSD",
+    "uf": "PI",
+    "voto": null,
+    "nome": "Julio Cesar De Carvalho Lima",
+    "mail": "dep.juliocesar@camara.leg.br"
+  },
+  {
+    "id": "204372",
+    "cargo": "Deputado Julio Cesar Ribeiro",
+    "partido": "REPUBLICANOS",
+    "uf": "DF",
+    "voto": null,
+    "nome": "Julio Cesar Ribeiro",
+    "mail": "dep.juliocesarribeiro@camara.leg.br"
+  },
+  {
+    "id": "73586",
+    "cargo": "Deputado Júlio Delgado",
+    "partido": "PSB",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Julio Cesar Delgado",
+    "mail": "dep.juliodelgado@camara.leg.br"
+  },
+  {
+    "id": "204457",
+    "cargo": "Deputado Juninho Do Pneu",
+    "partido": "DEM",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Rogerio Teixeira Junior",
+    "mail": "dep.juninhodopneu@camara.leg.br"
+  },
+  {
+    "id": "204520",
+    "cargo": "Deputado Junio Amaral",
+    "partido": "PSL",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Geraldo Junio Do Amaral",
+    "mail": "dep.junioamaral@camara.leg.br"
+  },
+  {
+    "id": "204502",
+    "cargo": "Deputado Júnior Bozzella",
+    "partido": "PSL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Nicolino Bozzella Junior",
+    "mail": "dep.juniorbozzella@camara.leg.br"
+  },
+  {
+    "id": "204497",
+    "cargo": "Deputado Júnior Ferrari",
+    "partido": "PSD",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Joao Ferrari Junior",
+    "mail": "dep.juniorferrari@camara.leg.br"
+  },
+  {
+    "id": "204574",
+    "cargo": "Deputado Junior Lourenço",
+    "partido": "PL",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Jose Lourenco Bomfim Junior",
+    "mail": "dep.juniorlourenco@camara.leg.br"
+  },
+  {
+    "id": "204550",
+    "cargo": "Deputado Júnior Mano",
+    "partido": "PL",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Antonio Luiz Rodrigues Mano Junior",
+    "mail": "dep.juniormano@camara.leg.br"
+  },
+  {
+    "id": "178886",
+    "cargo": "Deputado Juscelino Filho",
+    "partido": "DEM",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Jose Juscelino Dos Santos Rezende Filho",
+    "mail": "dep.juscelinofilho@camara.leg.br"
+  },
+  {
+    "id": "1249",
+    "cargo": "Senadora Kátia Abreu",
+    "partido": "PP",
+    "uf": "TO",
+    "voto": null,
+    "nome": "Kátia Regina de Abreu",
+    "mail": "(61) 3303-2990"
+  },
+  {
+    "id": "204536",
+    "cargo": "Deputado Kim Kataguiri",
+    "partido": "DEM",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Kim Patroca Kataguiri",
+    "mail": "dep.kimkataguiri@camara.leg.br"
+  },
+  {
+    "id": "151208",
+    "cargo": "Deputado Laercio Oliveira",
+    "partido": "PP",
+    "uf": "SE",
+    "voto": null,
+    "nome": "Laercio Jose De Oliveira",
+    "mail": "dep.laerciooliveira@camara.leg.br"
+  },
+  {
+    "id": "98057",
+    "cargo": "Deputado Lafayette De Andrada",
+    "partido": "REPUBLICANOS",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Lafayette Luiz Doorgal De Andrada",
+    "mail": "dep.lafayettedeandrada@camara.leg.br"
+  },
+  {
+    "id": "5533",
+    "cargo": "Senador Lasier Martins",
+    "partido": "PODEMOS",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Lasier Costa Martins",
+    "mail": "sen.lasiermartins@senado.leg.br"
+  },
+  {
+    "id": "160534",
+    "cargo": "Deputada Lauriete",
+    "partido": "PL",
+    "uf": "ES",
+    "voto": null,
+    "nome": "Lauriete Rodrigues De Jesus",
+    "mail": "dep.lauriete@camara.leg.br"
+  },
+  {
+    "id": "178832",
+    "cargo": "Deputada Leandre",
+    "partido": "PV",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Leandre Dal Ponte",
+    "mail": "dep.leandre@camara.leg.br"
+  },
+  {
+    "id": "204375",
+    "cargo": "Deputada Leda Sadala",
+    "partido": "AVANTE",
+    "uf": "AP",
+    "voto": null,
+    "nome": "Leda Maria Sadala Brito",
+    "mail": "dep.ledasadala@camara.leg.br"
+  },
+  {
+    "id": "5979",
+    "cargo": "Senadora Leila Barros",
+    "partido": "PSB",
+    "uf": "DF",
+    "voto": null,
+    "nome": "Leila Gomes de Barros Rêgo",
+    "mail": "sen.leilabarros@senado.leg.br"
+  },
+  {
+    "id": "204359",
+    "cargo": "Deputado Léo Moraes",
+    "partido": "PODE",
+    "uf": "RO",
+    "voto": null,
+    "nome": "Leonardo Barreto De Moraes",
+    "mail": "dep.leomoraes@camara.leg.br"
+  },
+  {
+    "id": "204547",
+    "cargo": "Deputado Léo Motta",
+    "partido": "PSL",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Eliel Marcio Do Carmo",
+    "mail": "dep.leomotta@camara.leg.br"
+  },
+  {
+    "id": "74156",
+    "cargo": "Deputado Leonardo Monteiro",
+    "partido": "PT",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Jose Leonardo Costa Monteiro",
+    "mail": "dep.leonardomonteiro@camara.leg.br"
+  },
+  {
+    "id": "74299",
+    "cargo": "Deputado Leônidas Cristino",
+    "partido": "PDT",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Jose Leonidas De Menezes Cristino",
+    "mail": "dep.leonidascristino@camara.leg.br"
+  },
+  {
+    "id": "92102",
+    "cargo": "Deputado Leur Lomanto Júnior",
+    "partido": "DEM",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Leur Antonio De Britto Lomanto Junior",
+    "mail": "dep.leurlomantojunior@camara.leg.br"
+  },
+  {
+    "id": "139285",
+    "cargo": "Deputada Lídice Da Mata",
+    "partido": "PSB",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Lidice Da Mata E Souza",
+    "mail": "dep.lidicedamata@camara.leg.br"
+  },
+  {
+    "id": "74585",
+    "cargo": "Deputado Lincoln Portela",
+    "partido": "PL",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Lincoln Diniz Portela",
+    "mail": "dep.lincolnportela@camara.leg.br"
+  },
+  {
+    "id": "204405",
+    "cargo": "Deputada Liziane Bayer",
+    "partido": "PSB",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Liziane Bayer Da Costa",
+    "mail": "dep.lizianebayer@camara.leg.br"
+  },
+  {
+    "id": "204382",
+    "cargo": "Deputado Loester Trutis",
+    "partido": "PSL",
+    "uf": "MS",
+    "voto": null,
+    "nome": "Loester Carlos Gomes De Souza",
+    "mail": "dep.loestertrutis@camara.leg.br"
+  },
+  {
+    "id": "196358",
+    "cargo": "Deputado Lourival Gomes",
+    "partido": "PSL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Lourival Gomes De Almeida",
+    "mail": "dep.lourivalgomes@camara.leg.br"
+  },
+  {
+    "id": "5926",
+    "cargo": "Senador Lucas Barreto",
+    "partido": "PSD",
+    "uf": "AP",
+    "voto": null,
+    "nome": "Luiz Cantuária Barreto",
+    "mail": "sen.lucasbarreto@senado.leg.br"
+  },
+  {
+    "id": "204523",
+    "cargo": "Deputado Lucas Gonzalez",
+    "partido": "NOVO",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Lucas De Vasconcelos Gonzalez",
+    "mail": "dep.lucasgonzalez@camara.leg.br"
+  },
+  {
+    "id": "204404",
+    "cargo": "Deputado Lucas Redecker",
+    "partido": "PSDB",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Lucas Bello Redecker",
+    "mail": "dep.lucasredecker@camara.leg.br"
+  },
+  {
+    "id": "178879",
+    "cargo": "Deputado Lucas Vergilio",
+    "partido": "SOLIDARIEDADE",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Lucas De Castro Santos",
+    "mail": "dep.lucasvergilio@camara.leg.br"
+  },
+  {
+    "id": "74478",
+    "cargo": "Deputado Luciano Bivar",
+    "partido": "PSL",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Luciano Caldas Bivar",
+    "mail": "dep.lucianobivar@camara.leg.br"
+  },
+  {
+    "id": "178931",
+    "cargo": "Deputado Luciano Ducci",
+    "partido": "PSB",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Luciano Ducci",
+    "mail": "dep.lucianoducci@camara.leg.br"
+  },
+  {
+    "id": "178954",
+    "cargo": "Deputado Lucio Mosquini",
+    "partido": "MDB",
+    "uf": "RO",
+    "voto": null,
+    "nome": "Lucio Antonio Mosquini",
+    "mail": "dep.luciomosquini@camara.leg.br"
+  },
+  {
+    "id": "204410",
+    "cargo": "Deputada Luisa Canziani",
+    "partido": "PTB",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Luisa Canziani Dos Santos Silveira",
+    "mail": "dep.luisacanziani@camara.leg.br"
+  },
+  {
+    "id": "1186",
+    "cargo": "Senador Luis Carlos Heinze",
+    "partido": "PP",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Luis Carlos Heinze",
+    "mail": "sen.luiscarlosheinze@senado.leg.br"
+  },
+  {
+    "id": "204381",
+    "cargo": "Deputado Luis Miranda",
+    "partido": "DEM",
+    "uf": "DF",
+    "voto": null,
+    "nome": "Luis Claudio Fernandes Miranda",
+    "mail": "dep.luismiranda@camara.leg.br"
+  },
+  {
+    "id": "160510",
+    "cargo": "Deputado Luis Tibé",
+    "partido": "AVANTE",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Luis Henrique De Oliveira Resende",
+    "mail": "dep.luistibe@camara.leg.br"
+  },
+  {
+    "id": "74784",
+    "cargo": "Deputada Luiza Erundina",
+    "partido": "PSOL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Luiza Erundina De Sousa",
+    "mail": "dep.luizaerundina@camara.leg.br"
+  },
+  {
+    "id": "204448",
+    "cargo": "Deputado Luiz Antônio Corrêa",
+    "partido": "PL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Luiz Antonio Da Costa Carvalho Correa Da Silva",
+    "mail": "dep.luizantoniocorrea@camara.leg.br"
+  },
+  {
+    "id": "204418",
+    "cargo": "Deputado Luizão Goulart",
+    "partido": "REPUBLICANOS",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Luiz Goularte Alves",
+    "mail": "dep.luizaogoulart@camara.leg.br"
+  },
+  {
+    "id": "160645",
+    "cargo": "Deputado Luiz Carlos",
+    "partido": "PSDB",
+    "uf": "AP",
+    "voto": null,
+    "nome": "Luiz Carlos Gomes Dos Santos Junior",
+    "mail": "dep.luizcarlos@camara.leg.br"
+  },
+  {
+    "id": "204485",
+    "cargo": "Deputado Luiz Carlos Motta",
+    "partido": "PL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Luiz Carlos Motta",
+    "mail": "dep.luizcarlosmotta@camara.leg.br"
+  },
+  {
+    "id": "5585",
+    "cargo": "Senador Luiz Do Carmo",
+    "partido": "MDB",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Luiz Carlos do Carmo",
+    "mail": "AVENIDA R-9, 213. QUADRA R 11 LOTE 11 (CASA COMERCIAL). SETOR OESTE, GOIANIA, GO."
+  },
+  {
+    "id": "178866",
+    "cargo": "Deputada Luizianne Lins",
+    "partido": "PT",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Luizianne De Oliveira Lins",
+    "mail": "dep.luiziannelins@camara.leg.br"
+  },
+  {
+    "id": "178982",
+    "cargo": "Deputado Luiz Lauro Filho",
+    "partido": "PSDB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Luiz Lauro Ferreira Filho",
+    "mail": "dep.luizlaurofilho@camara.leg.br"
+  },
+  {
+    "id": "204455",
+    "cargo": "Deputado Luiz Lima",
+    "partido": "PSL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Luiz Eduardo Carneiro Da Silva De Souza Lima",
+    "mail": "dep.luizlima@camara.leg.br"
+  },
+  {
+    "id": "162332",
+    "cargo": "Deputado Luiz Nishimori",
+    "partido": "PL",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Luiz Hiloshi Nishimori",
+    "mail": "dep.luiznishimori@camara.leg.br"
+  },
+  {
+    "id": "204526",
+    "cargo": "Deputado Luiz Philippe De Orleans E Bragança",
+    "partido": "PSL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Luiz Philippe De Orleans Braganca",
+    "mail": "dep.luizphilippedeorleansebraganca@camara.leg.br"
+  },
+  {
+    "id": "166402",
+    "cargo": "Deputada Magda Mofatto",
+    "partido": "PL",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Magda Mofatto Hon",
+    "mail": "dep.magdamofatto@camara.leg.br"
+  },
+  {
+    "id": "5557",
+    "cargo": "Senadora Mailza Gomes",
+    "partido": "PP",
+    "uf": "AC",
+    "voto": null,
+    "nome": "Mailza Assis da Silva",
+    "mail": "sen.mailzagomes@senado.leg.br"
+  },
+  {
+    "id": "204458",
+    "cargo": "Deputada Major Fabiana",
+    "partido": "PSL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Fabiana Silva De Souza Poubel",
+    "mail": "dep.majorfabiana@camara.leg.br"
+  },
+  {
+    "id": "5666",
+    "cargo": "Senador Major Olimpio",
+    "partido": "PSL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Sergio Olimpio Gomes",
+    "mail": "sen.majorolimpio@senado.leg.br"
+  },
+  {
+    "id": "204469",
+    "cargo": "Deputado Manuel Marcos",
+    "partido": "REPUBLICANOS",
+    "uf": "AC",
+    "voto": null,
+    "nome": "Manuel Marcos Carvalho De Mesquita",
+    "mail": "dep.manuelmarcos@camara.leg.br"
+  },
+  {
+    "id": "5376",
+    "cargo": "Senadora Mara Gabrilli",
+    "partido": "PSDB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Mara Cristina Gabrilli",
+    "mail": "(61) 3303-2775"
+  },
+  {
+    "id": "204471",
+    "cargo": "Deputada Mara Rocha",
+    "partido": "PSDB",
+    "uf": "AC",
+    "voto": null,
+    "nome": "Cylmara Fernandes Da Rocha Gripp",
+    "mail": "dep.mararocha@camara.leg.br"
+  },
+  {
+    "id": "212749",
+    "cargo": "Deputado Marcão Gomes",
+    "partido": "PL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Marcus Welber Gomes Da Silva",
+    "mail": "dep.marcaogomes@camara.leg.br"
+  },
+  {
+    "id": "146788",
+    "cargo": "Deputado Marcelo Aro",
+    "partido": "PP",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Marcelo Guilherme De Aro Ferreira",
+    "mail": "dep.marceloaro@camara.leg.br"
+  },
+  {
+    "id": "205863",
+    "cargo": "Deputado Marcelo Brum",
+    "partido": "PSL",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Marcelo De Brum Da Costa",
+    "mail": "dep.marcelobrum@camara.leg.br"
+  },
+  {
+    "id": "204433",
+    "cargo": "Deputado Marcelo Calero",
+    "partido": "CIDADANIA",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Marcelo Calero Faria Garcia",
+    "mail": "dep.marcelocalero@camara.leg.br"
+  },
+  {
+    "id": "742",
+    "cargo": "Senador Marcelo Castro",
+    "partido": "MDB",
+    "uf": "PI",
+    "voto": null,
+    "nome": "Marcelo Costa e Castro",
+    "mail": "sen.marcelocastro@senado.leg.br"
+  },
+  {
+    "id": "76874",
+    "cargo": "Deputado Marcelo Freixo",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Marcelo Ribeiro Freixo",
+    "mail": "dep.marcelofreixo@camara.leg.br"
+  },
+  {
+    "id": "133810",
+    "cargo": "Deputado Marcelo Moraes",
+    "partido": "PTB",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Marcelo Pires Moraes",
+    "mail": "dep.marcelomoraes@camara.leg.br"
+  },
+  {
+    "id": "204558",
+    "cargo": "Deputado Marcelo Nilo",
+    "partido": "PSB",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Jose Marcelo Do Nascimento Nilo",
+    "mail": "dep.marcelonilo@camara.leg.br"
+  },
+  {
+    "id": "204556",
+    "cargo": "Deputado Marcelo Ramos",
+    "partido": "PL",
+    "uf": "AM",
+    "voto": null,
+    "nome": "Marcelo Ramos Rodrigues",
+    "mail": "dep.marceloramos@camara.leg.br"
+  },
+  {
+    "id": "156190",
+    "cargo": "Deputado Marcel Van Hattem",
+    "partido": "NOVO",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Marcel Van Hattem",
+    "mail": "dep.marcelvanhattem@camara.leg.br"
+  },
+  {
+    "id": "178983",
+    "cargo": "Deputado Marcio Alvino",
+    "partido": "PL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Marcio Luiz Alvino De Souza",
+    "mail": "dep.marcioalvino@camara.leg.br"
+  },
+  {
+    "id": "179001",
+    "cargo": "Deputado Márcio Biolchi",
+    "partido": "MDB",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Marcio Della Valle Biolchi",
+    "mail": "dep.marciobiolchi@camara.leg.br"
+  },
+  {
+    "id": "285",
+    "cargo": "Senador Marcio Bittar",
+    "partido": "MDB",
+    "uf": "AC",
+    "voto": null,
+    "nome": "Márcio Miguel Bittar",
+    "mail": "sen.marciobittar@senado.leg.br"
+  },
+  {
+    "id": "81055",
+    "cargo": "Deputado Márcio Jerry",
+    "partido": "PCdoB",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Marcio Jerry Saraiva Barroso",
+    "mail": "dep.marciojerry@camara.leg.br"
+  },
+  {
+    "id": "204452",
+    "cargo": "Deputado Márcio Labre",
+    "partido": "PSL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Marcio Da Silveira Labre",
+    "mail": "dep.marciolabre@camara.leg.br"
+  },
+  {
+    "id": "150418",
+    "cargo": "Deputado Márcio Marinho",
+    "partido": "REPUBLICANOS",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Marcio Carlos Marinho",
+    "mail": "dep.marciomarinho@camara.leg.br"
+  },
+  {
+    "id": "204522",
+    "cargo": "Deputado Marco Bertaiolli",
+    "partido": "PSD",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Marco Aurelio Bertaiolli",
+    "mail": "dep.marcobertaiolli@camara.leg.br"
+  },
+  {
+    "id": "160535",
+    "cargo": "Deputado Marcon",
+    "partido": "PT",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Dionilso Mateus Marcon",
+    "mail": "dep.marcon@camara.leg.br"
+  },
+  {
+    "id": "204431",
+    "cargo": "Deputado Marcos Aurélio Sampaio",
+    "partido": "MDB",
+    "uf": "PI",
+    "voto": null,
+    "nome": "Marcos Aurelio Padua Ribeiro Goncalves De Sampaio",
+    "mail": "dep.marcosaureliosampaio@camara.leg.br"
+  },
+  {
+    "id": "5942",
+    "cargo": "Senador Marcos Do Val",
+    "partido": "PODEMOS",
+    "uf": "ES",
+    "voto": null,
+    "nome": "Marcos Ribeiro do Val",
+    "mail": "sen.marcosdoval@senado.leg.br"
+  },
+  {
+    "id": "204506",
+    "cargo": "Deputado Marcos Pereira",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Marcos Antonio Pereira",
+    "mail": "dep.marcospereira@camara.leg.br"
+  },
+  {
+    "id": "5422",
+    "cargo": "Senador Marcos Rogério",
+    "partido": "DEM",
+    "uf": "RO",
+    "voto": null,
+    "nome": "Marcos Rogério da Silva Brito",
+    "mail": "sen.marcosrogerio@senado.leg.br"
+  },
+  {
+    "id": "204430",
+    "cargo": "Deputada Margarete Coelho",
+    "partido": "PP",
+    "uf": "PI",
+    "voto": null,
+    "nome": "Margarete De Castro Coelho",
+    "mail": "dep.margaretecoelho@camara.leg.br"
+  },
+  {
+    "id": "171619",
+    "cargo": "Deputada Margarida Salomão",
+    "partido": "PT",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Maria Margarida Martins Salomao",
+    "mail": "dep.margaridasalomao@camara.leg.br"
+  },
+  {
+    "id": "1023",
+    "cargo": "Senadora Maria Do Carmo Alves",
+    "partido": "DEM",
+    "uf": "SE",
+    "voto": null,
+    "nome": "Maria do Carmo do Nascimento Alves",
+    "mail": "sen.mariadocarmoalves@senado.leg.br"
+  },
+  {
+    "id": "74398",
+    "cargo": "Deputada Maria Do Rosário",
+    "partido": "PT",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Maria Do Rosario Nunes",
+    "mail": "dep.mariadorosario@camara.leg.br"
+  },
+  {
+    "id": "178956",
+    "cargo": "Deputada Mariana Carvalho",
+    "partido": "PSDB",
+    "uf": "RO",
+    "voto": null,
+    "nome": "Mariana Fonseca Ribeiro Carvalho De Moraes",
+    "mail": "dep.marianacarvalho@camara.leg.br"
+  },
+  {
+    "id": "204540",
+    "cargo": "Deputada Maria Rosas",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Maria Do Parto Mendes Rosas",
+    "mail": "dep.mariarosas@camara.leg.br"
+  },
+  {
+    "id": "204428",
+    "cargo": "Deputada Marília Arraes",
+    "partido": "PT",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Marilia Valenca Rocha Arraes De Alencar",
+    "mail": "dep.mariliaarraes@camara.leg.br"
+  },
+  {
+    "id": "204432",
+    "cargo": "Deputada Marina Santos",
+    "partido": "SOLIDARIEDADE",
+    "uf": "PI",
+    "voto": null,
+    "nome": "Marina Santos Batista Dias",
+    "mail": "dep.marinasantos@camara.leg.br"
+  },
+  {
+    "id": "74158",
+    "cargo": "Deputado Mário Heringer",
+    "partido": "PDT",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Mario Lucio Heringer",
+    "mail": "dep.marioheringer@camara.leg.br"
+  },
+  {
+    "id": "178858",
+    "cargo": "Deputado Mário Negromonte Jr.",
+    "partido": "PP",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Mario Silvio Mendes Negromonte Junior",
+    "mail": "dep.marionegromontejr@camara.leg.br"
+  },
+  {
+    "id": "204403",
+    "cargo": "Deputado Marlon Santos",
+    "partido": "PDT",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Marlon Arator Santos Da Rosa",
+    "mail": "dep.marlonsantos@camara.leg.br"
+  },
+  {
+    "id": "204566",
+    "cargo": "Deputado Marreca Filho",
+    "partido": "PATRIOTA",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Antonio Da Cruz Filgueira Neto",
+    "mail": "dep.marrecafilho@camara.leg.br"
+  },
+  {
+    "id": "178843",
+    "cargo": "Deputado Marx Beltrão",
+    "partido": "PSD",
+    "uf": "AL",
+    "voto": null,
+    "nome": "Marx Beltrao Lima Siqueira",
+    "mail": "dep.marxbeltrao@camara.leg.br"
+  },
+  {
+    "id": "75431",
+    "cargo": "Deputado Maurício Dziedricki",
+    "partido": "PTB",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Mauricio Alexandre Dziedricki",
+    "mail": "dep.mauriciodziedricki@camara.leg.br"
+  },
+  {
+    "id": "204486",
+    "cargo": "Deputado Mauro Benevides Filho",
+    "partido": "PDT",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Carlos Mauro Benevides Filho",
+    "mail": "dep.maurobenevidesfilho@camara.leg.br"
+  },
+  {
+    "id": "74749",
+    "cargo": "Deputado Mauro Lopes",
+    "partido": "MDB",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Mauro Ribeiro Lopes",
+    "mail": "dep.maurolopes@camara.leg.br"
+  },
+  {
+    "id": "141508",
+    "cargo": "Deputado Mauro Nazif",
+    "partido": "PSB",
+    "uf": "RO",
+    "voto": null,
+    "nome": "Mauro Nazif Rasul",
+    "mail": "dep.mauronazif@camara.leg.br"
+  },
+  {
+    "id": "6027",
+    "cargo": "Senador Mecias De Jesus",
+    "partido": "REPUBLICANOS",
+    "uf": "RR",
+    "voto": null,
+    "nome": "Antônio Mecias Pereira de Jesus",
+    "mail": "sen.meciasdejesus@senado.leg.br"
+  },
+  {
+    "id": "178985",
+    "cargo": "Deputado Miguel Lombardi",
+    "partido": "PL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Miguel Lombardi",
+    "mail": "dep.miguellombardi@camara.leg.br"
+  },
+  {
+    "id": "154178",
+    "cargo": "Deputado Milton Vieira",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Milton Vieira Pinto",
+    "mail": "dep.miltonvieira@camara.leg.br"
+  },
+  {
+    "id": "178895",
+    "cargo": "Deputado Misael Varella",
+    "partido": "PSD",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Misael Artur Ferreira Varella",
+    "mail": "dep.misaelvarella@camara.leg.br"
+  },
+  {
+    "id": "178997",
+    "cargo": "Deputado Moses Rodrigues",
+    "partido": "MDB",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Moses Haendel Melo Rodrigues",
+    "mail": "dep.mosesrodrigues@camara.leg.br"
+  },
+  {
+    "id": "204453",
+    "cargo": "Deputada Natália Bonavides",
+    "partido": "PT",
+    "uf": "RN",
+    "voto": null,
+    "nome": "Natalia Bastos Bonavides",
+    "mail": "dep.nataliabonavides@camara.leg.br"
+  },
+  {
+    "id": "5985",
+    "cargo": "Senador Nelsinho Trad",
+    "partido": "PSD",
+    "uf": "MS",
+    "voto": null,
+    "nome": "Nelson Trad Filho",
+    "mail": "sen.nelsinhotrad@senado.leg.br"
+  },
+  {
+    "id": "204449",
+    "cargo": "Deputado Nelson Barbudo",
+    "partido": "PSL",
+    "uf": "MT",
+    "voto": null,
+    "nome": "Nelson Ned Previdente",
+    "mail": "dep.nelsonbarbudo@camara.leg.br"
+  },
+  {
+    "id": "204415",
+    "cargo": "Deputado Nereu Crispim",
+    "partido": "PSL",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Nereu Crispim",
+    "mail": "dep.nereucrispim@camara.leg.br"
+  },
+  {
+    "id": "146307",
+    "cargo": "Deputado Neri Geller",
+    "partido": "PP",
+    "uf": "MT",
+    "voto": null,
+    "nome": "Neri Geller",
+    "mail": "dep.nerigeller@camara.leg.br"
+  },
+  {
+    "id": "178896",
+    "cargo": "Deputado Newton Cardoso Jr",
+    "partido": "MDB",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Newton Cardoso Junior",
+    "mail": "dep.newtoncardosojr@camara.leg.br"
+  },
+  {
+    "id": "204479",
+    "cargo": "Deputado Nicoletti",
+    "partido": "PSL",
+    "uf": "RR",
+    "voto": null,
+    "nome": "Antonio Carlos Nicoletti",
+    "mail": "dep.nicoletti@camara.leg.br"
+  },
+  {
+    "id": "74352",
+    "cargo": "Deputado Nilson Pinto",
+    "partido": "PSDB",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Nilson Pinto De Oliveira",
+    "mail": "dep.nilsonpinto@camara.leg.br"
+  },
+  {
+    "id": "178986",
+    "cargo": "Deputado Nilto Tatto",
+    "partido": "PT",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Nilto Ignacio Tatto",
+    "mail": "dep.niltotatto@camara.leg.br"
+  },
+  {
+    "id": "194260",
+    "cargo": "Deputado Nivaldo Albuquerque",
+    "partido": "PTB",
+    "uf": "AL",
+    "voto": null,
+    "nome": "Nivaldo Ferreira De Albuquerque Neto",
+    "mail": "dep.nivaldoalbuquerque@camara.leg.br"
+  },
+  {
+    "id": "66179",
+    "cargo": "Deputada Norma Ayub",
+    "partido": "DEM",
+    "uf": "ES",
+    "voto": null,
+    "nome": "Norma Ayub Alves",
+    "mail": "dep.normaayub@camara.leg.br"
+  },
+  {
+    "id": "74159",
+    "cargo": "Deputado Odair Cunha",
+    "partido": "PT",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Odair Jose Da Cunha",
+    "mail": "dep.odaircunha@camara.leg.br"
+  },
+  {
+    "id": "204498",
+    "cargo": "Deputado Olival Marques",
+    "partido": "DEM",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Olival Henrique Marques De Souza",
+    "mail": "dep.olivalmarques@camara.leg.br"
+  },
+  {
+    "id": "5525",
+    "cargo": "Senador Omar Aziz",
+    "partido": "PSD",
+    "uf": "AM",
+    "voto": null,
+    "nome": "Omar José Abdel Aziz",
+    "mail": "(61) 3303-6524"
+  },
+  {
+    "id": "5924",
+    "cargo": "Senador Oriovisto Guimarães",
+    "partido": "PODEMOS",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Oriovisto Guimaraes",
+    "mail": "sen.oriovistoguimaraes@senado.leg.br"
+  },
+  {
+    "id": "178987",
+    "cargo": "Deputado Orlando Silva",
+    "partido": "PCdoB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Orlando Silva De Jesus Junior",
+    "mail": "dep.orlandosilva@camara.leg.br"
+  },
+  {
+    "id": "204363",
+    "cargo": "Deputado Osires Damaso",
+    "partido": "PSC",
+    "uf": "TO",
+    "voto": null,
+    "nome": "Osires Rodrigues Damaso",
+    "mail": "dep.osiresdamaso@camara.leg.br"
+  },
+  {
+    "id": "73692",
+    "cargo": "Deputado Osmar Terra",
+    "partido": "MDB",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Osmar Gasparini Terra",
+    "mail": "dep.osmarterra@camara.leg.br"
+  },
+  {
+    "id": "204422",
+    "cargo": "Deputado Ossesio Silva",
+    "partido": "REPUBLICANOS",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Ossesio Jose Da Silva",
+    "mail": "dep.ossesiosilva@camara.leg.br"
+  },
+  {
+    "id": "204441",
+    "cargo": "Deputado Otoni De Paula",
+    "partido": "PSC",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Otoni Moura De Paulo Junior",
+    "mail": "dep.otonidepaula@camara.leg.br"
+  },
+  {
+    "id": "204475",
+    "cargo": "Deputado Ottaci Nascimento",
+    "partido": "SOLIDARIEDADE",
+    "uf": "RR",
+    "voto": null,
+    "nome": "Jose Otaci Barroso Do Nascimento",
+    "mail": "dep.ottacinascimento@camara.leg.br"
+  },
+  {
+    "id": "5523",
+    "cargo": "Senador Otto Alencar",
+    "partido": "PSD",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Otto Roberto Mendonça de Alencar",
+    "mail": "(61) 3303-2862"
+  },
+  {
+    "id": "204573",
+    "cargo": "Deputado Otto Alencar Filho",
+    "partido": "PSD",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Otto Roberto Mendonca De Alencar Filho",
+    "mail": "dep.ottoalencarfilho@camara.leg.br"
+  },
+  {
+    "id": "160556",
+    "cargo": "Deputado Padre João",
+    "partido": "PT",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Joao Carlos Siqueira",
+    "mail": "dep.padrejoao@camara.leg.br"
+  },
+  {
+    "id": "74319",
+    "cargo": "Deputado Paes Landim",
+    "partido": "PTB",
+    "uf": "PI",
+    "voto": null,
+    "nome": "Jose Francisco Paes Landim",
+    "mail": "dep.paeslandim@camara.leg.br"
+  },
+  {
+    "id": "160642",
+    "cargo": "Deputado Pastor Eurico",
+    "partido": "PATRIOTA",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Francisco Eurico Da Silva",
+    "mail": "dep.pastoreurico@camara.leg.br"
+  },
+  {
+    "id": "204553",
+    "cargo": "Deputado Pastor Sargento Isidório",
+    "partido": "AVANTE",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Manoel Isidorio De Santana Junior",
+    "mail": "dep.pastorsargentoisidorio@camara.leg.br"
+  },
+  {
+    "id": "205535",
+    "cargo": "Deputada Patricia Ferraz",
+    "partido": "PODE",
+    "uf": "AP",
+    "voto": null,
+    "nome": "Patricia Lima Ferraz",
+    "mail": "dep.patriciaferraz@camara.leg.br"
+  },
+  {
+    "id": "74160",
+    "cargo": "Deputado Patrus Ananias",
+    "partido": "PT",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Patrus Ananias De Sousa",
+    "mail": "dep.patrusananias@camara.leg.br"
+  },
+  {
+    "id": "204377",
+    "cargo": "Deputada Paula Belmonte",
+    "partido": "CIDADANIA",
+    "uf": "DF",
+    "voto": null,
+    "nome": "Paula Moreno Paro Belmonte",
+    "mail": "dep.paulabelmonte@camara.leg.br"
+  },
+  {
+    "id": "171617",
+    "cargo": "Deputado Paulão",
+    "partido": "PT",
+    "uf": "AL",
+    "voto": null,
+    "nome": "Paulo Fernando Dos Santos",
+    "mail": "dep.paulao@camara.leg.br"
+  },
+  {
+    "id": "141516",
+    "cargo": "Deputado Paulo Abi-ackel",
+    "partido": "PSDB",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Paulo Abi Ackel",
+    "mail": "dep.pauloabiackel@camara.leg.br"
+  },
+  {
+    "id": "178860",
+    "cargo": "Deputado Paulo Azi",
+    "partido": "DEM",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Paulo Velloso Dantas Azi",
+    "mail": "dep.pauloazi@camara.leg.br"
+  },
+  {
+    "id": "204538",
+    "cargo": "Deputado Paulo Bengtson",
+    "partido": "PTB",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Paulo Eduardo Maestri Bengtson",
+    "mail": "dep.paulobengtson@camara.leg.br"
+  },
+  {
+    "id": "193726",
+    "cargo": "Deputado Paulo Eduardo Martins",
+    "partido": "PSC",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Paulo Eduardo Lima Martins",
+    "mail": "dep.pauloeduardomartins@camara.leg.br"
+  },
+  {
+    "id": "160558",
+    "cargo": "Deputado Paulo Freire Costa",
+    "partido": "PL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Paulo Roberto Freire Da Costa",
+    "mail": "dep.paulofreirecosta@camara.leg.br"
+  },
+  {
+    "id": "204461",
+    "cargo": "Deputado Paulo Ganime",
+    "partido": "NOVO",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Paulo Gustavo Ganime Alves Teixeira",
+    "mail": "dep.pauloganime@camara.leg.br"
+  },
+  {
+    "id": "204492",
+    "cargo": "Deputado Paulo Guedes",
+    "partido": "PT",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Paulo Jose Carlos Guedes",
+    "mail": "dep.pauloguedes@camara.leg.br"
+  },
+  {
+    "id": "74574",
+    "cargo": "Deputado Paulo Magalhães",
+    "partido": "PSD",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Paulo Sergio Paranhos De Magalhaes",
+    "mail": "dep.paulomagalhaes@camara.leg.br"
+  },
+  {
+    "id": "128760",
+    "cargo": "Deputado Paulo Marinho Jr",
+    "partido": "PL",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Paulo Celso Fonseca Marinho Junior",
+    "mail": "dep.paulomarinhojr@camara.leg.br"
+  },
+  {
+    "id": "825",
+    "cargo": "Senador Paulo Paim",
+    "partido": "PT",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Paulo Renato Paim",
+    "mail": "(61) 3303-5235"
+  },
+  {
+    "id": "141518",
+    "cargo": "Deputado Paulo Pereira Da Silva",
+    "partido": "SOLIDARIEDADE",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Paulo Pereira Da Silva",
+    "mail": "dep.paulopereiradasilva@camara.leg.br"
+  },
+  {
+    "id": "74400",
+    "cargo": "Deputado Paulo Pimenta",
+    "partido": "PT",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Paulo Roberto Severo Pimenta",
+    "mail": "dep.paulopimenta@camara.leg.br"
+  },
+  {
+    "id": "133968",
+    "cargo": "Deputado Paulo Ramos",
+    "partido": "PDT",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Paulo Sergio Ramos Barboza",
+    "mail": "dep.pauloramos@camara.leg.br"
+  },
+  {
+    "id": "374",
+    "cargo": "Senador Paulo Rocha",
+    "partido": "PT",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Paulo Roberto Galvão da Rocha",
+    "mail": "sen.paulorocha@senado.leg.br"
+  },
+  {
+    "id": "141488",
+    "cargo": "Deputado Paulo Teixeira",
+    "partido": "PT",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Luiz Paulo Teixeira Ferreira",
+    "mail": "dep.pauloteixeira@camara.leg.br"
+  },
+  {
+    "id": "90201",
+    "cargo": "Deputado Pedro Augusto Bezerra",
+    "partido": "PTB",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Pedro Augusto Geromel Bezerra De Menezes",
+    "mail": "dep.pedroaugustobezerra@camara.leg.br"
+  },
+  {
+    "id": "178912",
+    "cargo": "Deputado Pedro Cunha Lima",
+    "partido": "PSDB",
+    "uf": "PB",
+    "voto": null,
+    "nome": "Pedro Oliveira Cunha Lima",
+    "mail": "dep.pedrocunhalima@camara.leg.br"
+  },
+  {
+    "id": "122974",
+    "cargo": "Deputado Pedro Lucas Fernandes",
+    "partido": "PTB",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Pedro Lucas Andrade Fernandes Ribeiro",
+    "mail": "dep.pedrolucasfernandes@camara.leg.br"
+  },
+  {
+    "id": "204395",
+    "cargo": "Deputado Pedro Lupion",
+    "partido": "DEM",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Pedro Deboni Lupion Mello",
+    "mail": "dep.pedrolupion@camara.leg.br"
+  },
+  {
+    "id": "122158",
+    "cargo": "Deputado Pedro Paulo",
+    "partido": "DEM",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Pedro Paulo Carvalho Teixeira",
+    "mail": "dep.pedropaulo@camara.leg.br"
+  },
+  {
+    "id": "160604",
+    "cargo": "Deputado Pedro Uczai",
+    "partido": "PT",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Pedro Francisco Uczai",
+    "mail": "dep.pedrouczai@camara.leg.br"
+  },
+  {
+    "id": "204406",
+    "cargo": "Deputado Pedro Westphalen",
+    "partido": "PP",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Pedro Bandarra Westphalen",
+    "mail": "dep.pedrowestphalen@camara.leg.br"
+  },
+  {
+    "id": "73943",
+    "cargo": "Deputada Perpétua Almeida",
+    "partido": "PCdoB",
+    "uf": "AC",
+    "voto": null,
+    "nome": "Maria Perpetua De Almeida",
+    "mail": "dep.perpetuaalmeida@camara.leg.br"
+  },
+  {
+    "id": "204524",
+    "cargo": "Deputado Pinheirinho",
+    "partido": "PP",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Antonio Pinheiro Neto",
+    "mail": "dep.pinheirinho@camara.leg.br"
+  },
+  {
+    "id": "5502",
+    "cargo": "Senador Plínio Valério",
+    "partido": "PSDB",
+    "uf": "AM",
+    "voto": null,
+    "nome": "Francisco Plínio Valério Tomaz",
+    "mail": "sen.pliniovalerio@senado.leg.br"
+  },
+  {
+    "id": "204529",
+    "cargo": "Deputada Policial Katia Sastre",
+    "partido": "PL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Katia Da Silva Sastre",
+    "mail": "dep.policialkatiasastre@camara.leg.br"
+  },
+  {
+    "id": "73486",
+    "cargo": "Deputado Pompeo De Mattos",
+    "partido": "PDT",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Darci Pompeo De Mattos",
+    "mail": "dep.pompeodemattos@camara.leg.br"
+  },
+  {
+    "id": "160601",
+    "cargo": "Deputado Pr. Marco Feliciano",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Marco Antonio Feliciano",
+    "mail": "dep.pr.marcofeliciano@camara.leg.br"
+  },
+  {
+    "id": "204565",
+    "cargo": "Deputada Professora Dayane Pimentel",
+    "partido": "PSL",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Dayane Jamille Carneiro Dos Santos Pimentel",
+    "mail": "dep.professoradayanepimentel@camara.leg.br"
+  },
+  {
+    "id": "160639",
+    "cargo": "Deputada Professora Dorinha Seabra Rezende",
+    "partido": "DEM",
+    "uf": "TO",
+    "voto": null,
+    "nome": "Maria Auxiliadora Seabra Rezende",
+    "mail": "dep.professoradorinhaseabrarezende@camara.leg.br"
+  },
+  {
+    "id": "204390",
+    "cargo": "Deputado Professor Alcides",
+    "partido": "PP",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Alcides Ribeiro Filho",
+    "mail": "dep.professoralcides@camara.leg.br"
+  },
+  {
+    "id": "160641",
+    "cargo": "Deputada Professora Marcivania",
+    "partido": "PCdoB",
+    "uf": "AP",
+    "voto": null,
+    "nome": "Marcivania Do Socorro Da Rocha Flexa",
+    "mail": "dep.professoramarcivania@camara.leg.br"
+  },
+  {
+    "id": "204467",
+    "cargo": "Deputada Professora Rosa Neide",
+    "partido": "PT",
+    "uf": "MT",
+    "voto": null,
+    "nome": "Rosa Neide Sandes De Almeida",
+    "mail": "dep.professorarosaneide@camara.leg.br"
+  },
+  {
+    "id": "204383",
+    "cargo": "Deputado Professor Israel Batista",
+    "partido": "PV",
+    "uf": "DF",
+    "voto": null,
+    "nome": "Israel Matos Batista",
+    "mail": "dep.professorisraelbatista@camara.leg.br"
+  },
+  {
+    "id": "204446",
+    "cargo": "Deputado Professor Joziel",
+    "partido": "PSL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Joziel Ferreira Carlos",
+    "mail": "dep.professorjoziel@camara.leg.br"
+  },
+  {
+    "id": "178951",
+    "cargo": "Deputado Rafael Motta",
+    "partido": "PSB",
+    "uf": "RN",
+    "voto": null,
+    "nome": "Rafael Huete Da Motta",
+    "mail": "dep.rafaelmotta@camara.leg.br"
+  },
+  {
+    "id": "204567",
+    "cargo": "Deputado Raimundo Costa",
+    "partido": "PL",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Raimundo Magalhaes Costa",
+    "mail": "dep.raimundocosta@camara.leg.br"
+  },
+  {
+    "id": "5012",
+    "cargo": "Senador Randolfe Rodrigues",
+    "partido": "REDE",
+    "uf": "AP",
+    "voto": null,
+    "nome": "Randolph Frederich Rodrigues Alves",
+    "mail": "sen.randolferodrigues@senado.leg.br"
+  },
+  {
+    "id": "141523",
+    "cargo": "Deputado Raul Henry",
+    "partido": "MDB",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Raul Jean Louis Henry Junior",
+    "mail": "dep.raulhenry@camara.leg.br"
+  },
+  {
+    "id": "74161",
+    "cargo": "Deputado Reginaldo Lopes",
+    "partido": "PT",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Reginaldo Lazaro De Oliveira Lopes",
+    "mail": "dep.reginaldolopes@camara.leg.br"
+  },
+  {
+    "id": "5236",
+    "cargo": "Senador Reguffe",
+    "partido": "PODEMOS",
+    "uf": "DF",
+    "voto": null,
+    "nome": "José Antônio Machado Reguffe",
+    "mail": "sen.reguffe@senado.leg.br"
+  },
+  {
+    "id": "205865",
+    "cargo": "Deputado Reinhold Stephanes Junior",
+    "partido": "PSD",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Reinhold Stephanes Junior",
+    "mail": "dep.reinholdstephanesjunior@camara.leg.br"
+  },
+  {
+    "id": "178925",
+    "cargo": "Deputada Rejane Dias",
+    "partido": "PT",
+    "uf": "PI",
+    "voto": null,
+    "nome": "Rejane Ribeiro Sousa Dias",
+    "mail": "dep.rejanedias@camara.leg.br"
+  },
+  {
+    "id": "70",
+    "cargo": "Senador Renan Calheiros",
+    "partido": "MDB",
+    "uf": "AL",
+    "voto": null,
+    "nome": "José Renan Vasconcelos Calheiros",
+    "mail": "sen.renancalheiros@senado.leg.br"
+  },
+  {
+    "id": "73801",
+    "cargo": "Deputado Renildo Calheiros",
+    "partido": "PCdoB",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Renildo Vasconcelos Calheiros",
+    "mail": "dep.renildocalheiros@camara.leg.br"
+  },
+  {
+    "id": "73788",
+    "cargo": "Deputado Ricardo Barros",
+    "partido": "PP",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Ricardo Jose Magalhaes Barros",
+    "mail": "dep.ricardobarros@camara.leg.br"
+  },
+  {
+    "id": "204362",
+    "cargo": "Deputado Ricardo Guidi",
+    "partido": "PSD",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Ricardo Zanatta Guidi",
+    "mail": "dep.ricardoguidi@camara.leg.br"
+  },
+  {
+    "id": "160655",
+    "cargo": "Deputado Ricardo Izar",
+    "partido": "PP",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Ricardo Izar Junior",
+    "mail": "dep.ricardoizar@camara.leg.br"
+  },
+  {
+    "id": "178920",
+    "cargo": "Deputado Ricardo Teobaldo",
+    "partido": "PODE",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Ricardo Teobaldo Cavalcanti",
+    "mail": "dep.ricardoteobaldo@camara.leg.br"
+  },
+  {
+    "id": "204489",
+    "cargo": "Deputado Robério Monteiro",
+    "partido": "PDT",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Marcos Roberio Ribeiro Monteiro",
+    "mail": "dep.roberiomonteiro@camara.leg.br"
+  },
+  {
+    "id": "152610",
+    "cargo": "Deputado Roberto Alves",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Benedito Roberto Alves Ferreira",
+    "mail": "dep.robertoalves@camara.leg.br"
+  },
+  {
+    "id": "160653",
+    "cargo": "Deputado Roberto De Lucena",
+    "partido": "PODE",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Roberto Alves De Lucena",
+    "mail": "dep.robertodelucena@camara.leg.br"
+  },
+  {
+    "id": "74305",
+    "cargo": "Deputado Roberto Pessoa",
+    "partido": "PSDB",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Roberto Soares Pessoa",
+    "mail": "dep.robertopessoa@camara.leg.br"
+  },
+  {
+    "id": "677",
+    "cargo": "Senador Roberto Rocha",
+    "partido": "PSDB",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Roberto Coelho Rocha",
+    "mail": "(61) 3303-1438"
+  },
+  {
+    "id": "204530",
+    "cargo": "Deputado Rodrigo Agostinho",
+    "partido": "PSB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Rodrigo Antonio De Agostinho Mendonca",
+    "mail": "dep.rodrigoagostinho@camara.leg.br"
+  },
+  {
+    "id": "204366",
+    "cargo": "Deputado Rodrigo Coelho",
+    "partido": "PSB",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Rodrigo Coelho",
+    "mail": "dep.rodrigocoelho@camara.leg.br"
+  },
+  {
+    "id": "5905",
+    "cargo": "Senador Rodrigo Cunha",
+    "partido": "PSDB",
+    "uf": "AL",
+    "voto": null,
+    "nome": "Rodrigo Santos Cunha",
+    "mail": "sen.rodrigocunha@senado.leg.br"
+  },
+  {
+    "id": "141531",
+    "cargo": "Deputado Rodrigo De Castro",
+    "partido": "PSDB",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Rodrigo Batista De Castro",
+    "mail": "dep.rodrigodecastro@camara.leg.br"
+  },
+  {
+    "id": "74693",
+    "cargo": "Deputado Rodrigo Maia",
+    "partido": "DEM",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Rodrigo Felinto Ibarra Epitacio Maia",
+    "mail": "dep.rodrigomaia@camara.leg.br"
+  },
+  {
+    "id": "5732",
+    "cargo": "Senador Rodrigo Pacheco",
+    "partido": "DEM",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Rodrigo Otavio Soares Pacheco",
+    "mail": "sen.rodrigopacheco@senado.leg.br"
+  },
+  {
+    "id": "5352",
+    "cargo": "Senador Rogério Carvalho",
+    "partido": "PT",
+    "uf": "SE",
+    "voto": null,
+    "nome": "Rogério Carvalho Santos",
+    "mail": "sen.rogeriocarvalho@senado.leg.br"
+  },
+  {
+    "id": "204480",
+    "cargo": "Deputado Rogério Correia",
+    "partido": "PT",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Rogerio Correia De Moura Baptista",
+    "mail": "dep.rogeriocorreia@camara.leg.br"
+  },
+  {
+    "id": "160651",
+    "cargo": "Deputado Rogério Peninha Mendonça",
+    "partido": "MDB",
+    "uf": "SC",
+    "voto": null,
+    "nome": "Rogerio Mendonca",
+    "mail": "dep.rogeriopeninhamendonca@camara.leg.br"
+  },
+  {
+    "id": "178930",
+    "cargo": "Deputado Roman",
+    "partido": "PATRIOTA",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Evandro Rogerio Roman",
+    "mail": "dep.roman@camara.leg.br"
+  },
+  {
+    "id": "5322",
+    "cargo": "Senador Romário",
+    "partido": "PODEMOS",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Romario de Souza Faria",
+    "mail": "(61) 3303-6520"
+  },
+  {
+    "id": "178861",
+    "cargo": "Deputado Ronaldo Carletto",
+    "partido": "PP",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Ronaldo Carletto",
+    "mail": "dep.ronaldocarletto@camara.leg.br"
+  },
+  {
+    "id": "204525",
+    "cargo": "Deputada Rosana Valle",
+    "partido": "PSB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Rosana De Oliveira Valle",
+    "mail": "dep.rosanavalle@camara.leg.br"
+  },
+  {
+    "id": "178945",
+    "cargo": "Deputada Rosangela Gomes",
+    "partido": "REPUBLICANOS",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Rosangela De Souza Gomes",
+    "mail": "dep.rosangelagomes@camara.leg.br"
+  },
+  {
+    "id": "2331",
+    "cargo": "Senadora Rose De Freitas",
+    "partido": "PODEMOS",
+    "uf": "ES",
+    "voto": null,
+    "nome": "Rosilda de Freitas",
+    "mail": "rose.freitas@senadora.leg.br"
+  },
+  {
+    "id": "204357",
+    "cargo": "Deputada Rose Modesto",
+    "partido": "PSDB",
+    "uf": "MS",
+    "voto": null,
+    "nome": "Rosiane Modesto De Oliveira",
+    "mail": "dep.rosemodesto@camara.leg.br"
+  },
+  {
+    "id": "73466",
+    "cargo": "Deputado Rubens Bueno",
+    "partido": "CIDADANIA",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Rubens Bueno",
+    "mail": "dep.rubensbueno@camara.leg.br"
+  },
+  {
+    "id": "74371",
+    "cargo": "Deputado Rubens Otoni",
+    "partido": "PT",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Rubens Otoni Gomide",
+    "mail": "dep.rubensotoni@camara.leg.br"
+  },
+  {
+    "id": "73604",
+    "cargo": "Deputado Rui Falcão",
+    "partido": "PT",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Rui Goethe Da Costa Falcao",
+    "mail": "dep.ruifalcao@camara.leg.br"
+  },
+  {
+    "id": "160635",
+    "cargo": "Deputado Ruy Carneiro",
+    "partido": "PSDB",
+    "uf": "PB",
+    "voto": null,
+    "nome": "Ruy Manuel Carneiro Barbosa De Aca Belchior",
+    "mail": "dep.ruycarneiro@camara.leg.br"
+  },
+  {
+    "id": "204535",
+    "cargo": "Deputada Sâmia Bomfim",
+    "partido": "PSOL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Samia De Souza Bomfim",
+    "mail": "dep.samiabomfim@camara.leg.br"
+  },
+  {
+    "id": "178990",
+    "cargo": "Deputado Samuel Moreira",
+    "partido": "PSDB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Samuel Moreira Da Silva Junior",
+    "mail": "dep.samuelmoreira@camara.leg.br"
+  },
+  {
+    "id": "204416",
+    "cargo": "Deputado Sanderson",
+    "partido": "PSL",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Ubiratan Antunes Sanderson",
+    "mail": "dep.sanderson@camara.leg.br"
+  },
+  {
+    "id": "90842",
+    "cargo": "Deputado Santini",
+    "partido": "PTB",
+    "uf": "RS",
+    "voto": null,
+    "nome": "Ronaldo Santini",
+    "mail": "dep.santini@camara.leg.br"
+  },
+  {
+    "id": "204387",
+    "cargo": "Deputado Sargento Fahur",
+    "partido": "PSD",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Gilson Cardoso Fahur",
+    "mail": "dep.sargentofahur@camara.leg.br"
+  },
+  {
+    "id": "204399",
+    "cargo": "Deputado Schiavinato",
+    "partido": "PP",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Jose Carlos Schiavinato",
+    "mail": "dep.schiavinato@camara.leg.br"
+  },
+  {
+    "id": "178921",
+    "cargo": "Deputado Sebastião Oliveira",
+    "partido": "PL",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Sebastiao Ignacio De Oliveira Junior",
+    "mail": "dep.sebastiaooliveira@camara.leg.br"
+  },
+  {
+    "id": "73808",
+    "cargo": "Deputado Sérgio Brito",
+    "partido": "PSD",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Sergio Luis Lacerda Brito",
+    "mail": "dep.sergiobrito@camara.leg.br"
+  },
+  {
+    "id": "4560",
+    "cargo": "Senador Sérgio Petecão",
+    "partido": "PSD",
+    "uf": "AC",
+    "voto": null,
+    "nome": "Sérgio de Oliveira Cunha",
+    "mail": "sergio.petecao@senador.leg.br"
+  },
+  {
+    "id": "178933",
+    "cargo": "Deputado Sergio Souza",
+    "partido": "MDB",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Sergio De Souza",
+    "mail": "dep.sergiosouza@camara.leg.br"
+  },
+  {
+    "id": "204438",
+    "cargo": "Deputado Sergio Toledo",
+    "partido": "PL",
+    "uf": "AL",
+    "voto": null,
+    "nome": "Sergio Toledo De Albuquerque",
+    "mail": "dep.sergiotoledo@camara.leg.br"
+  },
+  {
+    "id": "178874",
+    "cargo": "Deputado Sergio Vidigal",
+    "partido": "PDT",
+    "uf": "ES",
+    "voto": null,
+    "nome": "Antonio Sergio Alves Vidigal",
+    "mail": "dep.sergiovidigal@camara.leg.br"
+  },
+  {
+    "id": "204437",
+    "cargo": "Deputado Severino Pessoa",
+    "partido": "REPUBLICANOS",
+    "uf": "AL",
+    "voto": null,
+    "nome": "Severino De Lira Pessoa",
+    "mail": "dep.severinopessoa@camara.leg.br"
+  },
+  {
+    "id": "178961",
+    "cargo": "Deputada Shéridan",
+    "partido": "PSDB",
+    "uf": "RR",
+    "voto": null,
+    "nome": "Sheridan Esterfany Oliveira",
+    "mail": "dep.sheridan@camara.leg.br"
+  },
+  {
+    "id": "204557",
+    "cargo": "Deputado Sidney Leite",
+    "partido": "PSD",
+    "uf": "AM",
+    "voto": null,
+    "nome": "Sidney Ricardo De Oliveira Leite",
+    "mail": "dep.sidneyleite@camara.leg.br"
+  },
+  {
+    "id": "74356",
+    "cargo": "Deputado Silas Câmara",
+    "partido": "REPUBLICANOS",
+    "uf": "AM",
+    "voto": null,
+    "nome": "Silas Camara",
+    "mail": "dep.silascamara@camara.leg.br"
+  },
+  {
+    "id": "204360",
+    "cargo": "Deputada Silvia Cristina",
+    "partido": "PDT",
+    "uf": "RO",
+    "voto": null,
+    "nome": "Silvia Cristina Amancio Chagas",
+    "mail": "dep.silviacristina@camara.leg.br"
+  },
+  {
+    "id": "204425",
+    "cargo": "Deputado Silvio Costa Filho",
+    "partido": "REPUBLICANOS",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Silvio Serafim Costa Filho",
+    "mail": "dep.silviocostafilho@camara.leg.br"
+  },
+  {
+    "id": "5527",
+    "cargo": "Senadora Simone Tebet",
+    "partido": "MDB",
+    "uf": "MS",
+    "voto": null,
+    "nome": "Simone Nassar Tebet",
+    "mail": "(61) 3303-1920"
+  },
+  {
+    "id": "178946",
+    "cargo": "Deputada Soraya Santos",
+    "partido": "PL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Soraya Alencar Dos Santos",
+    "mail": "dep.sorayasantos@camara.leg.br"
+  },
+  {
+    "id": "5988",
+    "cargo": "Senadora Soraya Thronicke",
+    "partido": "PSL",
+    "uf": "MS",
+    "voto": null,
+    "nome": "Soraya Vieira Thronicke",
+    "mail": "sen.sorayathronicke@senado.leg.br"
+  },
+  {
+    "id": "178947",
+    "cargo": "Deputado Sóstenes Cavalcante",
+    "partido": "DEM",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Sostenes Silva Cavalcante",
+    "mail": "dep.sostenescavalcante@camara.leg.br"
+  },
+  {
+    "id": "92776",
+    "cargo": "Deputado Stefano Aguiar",
+    "partido": "PSD",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Stefano Aguiar Dos Santos",
+    "mail": "dep.stefanoaguiar@camara.leg.br"
+  },
+  {
+    "id": "5959",
+    "cargo": "Senador Styvenson Valentim",
+    "partido": "PODEMOS",
+    "uf": "RN",
+    "voto": null,
+    "nome": "Eann Styvenson Valentim Mendes",
+    "mail": "sen.styvensonvalentim@senado.leg.br"
+  },
+  {
+    "id": "177282",
+    "cargo": "Deputado Subtenente Gonzaga",
+    "partido": "PDT",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Luiz Gonzaga Ribeiro",
+    "mail": "dep.subtenentegonzaga@camara.leg.br"
+  },
+  {
+    "id": "204534",
+    "cargo": "Deputada Tabata Amaral",
+    "partido": "PDT",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Tabata Claudia Amaral De Pontes",
+    "mail": "dep.tabataamaral@camara.leg.br"
+  },
+  {
+    "id": "178922",
+    "cargo": "Deputado Tadeu Alencar",
+    "partido": "PSB",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Francisco Tadeu Barbosa De Alencar",
+    "mail": "dep.tadeualencar@camara.leg.br"
+  },
+  {
+    "id": "204464",
+    "cargo": "Deputada Talíria Petrone",
+    "partido": "PSOL",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Taliria Petrone Soares",
+    "mail": "dep.taliriapetrone@camara.leg.br"
+  },
+  {
+    "id": "3396",
+    "cargo": "Senador Tasso Jereissati",
+    "partido": "PSDB",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Tasso Ribeiro Jereissati",
+    "mail": "(61) 3303-4573"
+  },
+  {
+    "id": "206231",
+    "cargo": "Deputado Ted Conti",
+    "partido": "PSB",
+    "uf": "ES",
+    "voto": null,
+    "nome": "Joao Batista Conti",
+    "mail": "dep.tedconti@camara.leg.br"
+  },
+  {
+    "id": "5535",
+    "cargo": "Senador Telmário Mota",
+    "partido": "PROS",
+    "uf": "RR",
+    "voto": null,
+    "nome": "Telmário Mota de Oliveira",
+    "mail": "sen.telmariomota@senado.leg.br"
+  },
+  {
+    "id": "204466",
+    "cargo": "Deputada Tereza Nelma",
+    "partido": "PSDB",
+    "uf": "AL",
+    "voto": null,
+    "nome": "Tereza Nelma Da Silva Porto Viana Soares",
+    "mail": "dep.terezanelma@camara.leg.br"
+  },
+  {
+    "id": "143084",
+    "cargo": "Deputado Tiago Dimas",
+    "partido": "SOLIDARIEDADE",
+    "uf": "TO",
+    "voto": null,
+    "nome": "Tiago Braga Pereira",
+    "mail": "dep.tiagodimas@camara.leg.br"
+  },
+  {
+    "id": "204519",
+    "cargo": "Deputado Tiago Mitraud",
+    "partido": "NOVO",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Tiago Lima Mitraud De Castro Leite",
+    "mail": "dep.tiagomitraud@camara.leg.br"
+  },
+  {
+    "id": "160976",
+    "cargo": "Deputado Tiririca",
+    "partido": "PL",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Francisco Everardo Tiririca Oliveira Silva",
+    "mail": "dep.tiririca@camara.leg.br"
+  },
+  {
+    "id": "197438",
+    "cargo": "Deputado Tito",
+    "partido": "AVANTE",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Carlos Tito Marques Cordeiro",
+    "mail": "dep.tito@camara.leg.br"
+  },
+  {
+    "id": "178934",
+    "cargo": "Deputado Toninho Wandscheer",
+    "partido": "PROS",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Antonio Wandscheer",
+    "mail": "dep.toninhowandscheer@camara.leg.br"
+  },
+  {
+    "id": "157130",
+    "cargo": "Deputado Túlio Gadêlha",
+    "partido": "PDT",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Tulio Gadelha Sales De Melo",
+    "mail": "dep.tuliogadelha@camara.leg.br"
+  },
+  {
+    "id": "178863",
+    "cargo": "Deputado Uldurico Junior",
+    "partido": "PROS",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Uldurico Alencar Pinto",
+    "mail": "dep.ulduricojunior@camara.leg.br"
+  },
+  {
+    "id": "195866",
+    "cargo": "Deputado Vaidon Oliveira",
+    "partido": "PROS",
+    "uf": "CE",
+    "voto": null,
+    "nome": "Francisco Vaidon Oliveira",
+    "mail": "dep.vaidonoliveira@camara.leg.br"
+  },
+  {
+    "id": "204385",
+    "cargo": "Deputado Valdevan Noventa",
+    "partido": "PSC",
+    "uf": "SE",
+    "voto": null,
+    "nome": "Jose Valdevan De Jesus Santos",
+    "mail": "dep.valdevannoventa@camara.leg.br"
+  },
+  {
+    "id": "160610",
+    "cargo": "Deputado Valmir Assunção",
+    "partido": "PT",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Valmir Carlos Da Assuncao",
+    "mail": "dep.valmirassuncao@camara.leg.br"
+  },
+  {
+    "id": "5899",
+    "cargo": "Senador Vanderlan Cardoso",
+    "partido": "PSD",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Vanderlan Vieira Cardoso",
+    "mail": "sen.vanderlancardoso@senado.leg.br"
+  },
+  {
+    "id": "141553",
+    "cargo": "Deputado Vanderlei Macris",
+    "partido": "PSDB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Vanderlei Macris",
+    "mail": "dep.vanderleimacris@camara.leg.br"
+  },
+  {
+    "id": "74376",
+    "cargo": "Deputado Vander Loubet",
+    "partido": "PT",
+    "uf": "MS",
+    "voto": null,
+    "nome": "Vander Luiz Dos Santos Loubet",
+    "mail": "dep.vanderloubet@camara.leg.br"
+  },
+  {
+    "id": "204505",
+    "cargo": "Deputado Vavá Martins",
+    "partido": "REPUBLICANOS",
+    "uf": "PA",
+    "voto": null,
+    "nome": "Wagner Bach Martins",
+    "mail": "dep.vavamartins@camara.leg.br"
+  },
+  {
+    "id": "5748",
+    "cargo": "Senador Veneziano Vital Do Rêgo",
+    "partido": "PSB",
+    "uf": "PB",
+    "voto": null,
+    "nome": "Veneziano Vital do Rêgo Segundo Neto",
+    "mail": "RUA MANOEL ELIAS DE CASTRO, 14. -A, ALTO BRANCO (TÉRREO). TEL. (83) 2148-8593. CAMPINA GRANDE, PB. CEP:58401-338"
+  },
+  {
+    "id": "204396",
+    "cargo": "Deputado Vermelho",
+    "partido": "PSD",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Nelsi Coguetto Maria",
+    "mail": "dep.vermelho@camara.leg.br"
+  },
+  {
+    "id": "74283",
+    "cargo": "Deputado Vicentinho",
+    "partido": "PT",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Vicente Paulo Da Silva",
+    "mail": "dep.vicentinho@camara.leg.br"
+  },
+  {
+    "id": "137070",
+    "cargo": "Deputado Vicentinho Júnior",
+    "partido": "PL",
+    "uf": "TO",
+    "voto": null,
+    "nome": "Vicente Alves De Oliveira Junior",
+    "mail": "dep.vicentinhojunior@camara.leg.br"
+  },
+  {
+    "id": "204483",
+    "cargo": "Deputado Vilson Da Fetaemg",
+    "partido": "PSB",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Vilson Luiz Da Silva",
+    "mail": "dep.vilsondafetaemg@camara.leg.br"
+  },
+  {
+    "id": "141555",
+    "cargo": "Deputado Vinicius Carvalho",
+    "partido": "REPUBLICANOS",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Vinicius Rapozo De Carvalho",
+    "mail": "dep.viniciuscarvalho@camara.leg.br"
+  },
+  {
+    "id": "204478",
+    "cargo": "Deputado Vinicius Farah",
+    "partido": "MDB",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Vinicius Medeiros Farah",
+    "mail": "dep.viniciusfarah@camara.leg.br"
+  },
+  {
+    "id": "204532",
+    "cargo": "Deputado Vinicius Poit",
+    "partido": "NOVO",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Vinicius Lazzer Poit",
+    "mail": "dep.viniciuspoit@camara.leg.br"
+  },
+  {
+    "id": "179587",
+    "cargo": "Deputado Vitor Hugo",
+    "partido": "PSL",
+    "uf": "GO",
+    "voto": null,
+    "nome": "Vitor Hugo De Araujo Almeida",
+    "mail": "dep.vitorhugo@camara.leg.br"
+  },
+  {
+    "id": "178992",
+    "cargo": "Deputado Vitor Lippi",
+    "partido": "PSDB",
+    "uf": "SP",
+    "voto": null,
+    "nome": "Vitor Lippi",
+    "mail": "dep.vitorlippi@camara.leg.br"
+  },
+  {
+    "id": "160569",
+    "cargo": "Deputado Waldenor Pereira",
+    "partido": "PT",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Waldenor Alves Pereira Filho",
+    "mail": "dep.waldenorpereira@camara.leg.br"
+  },
+  {
+    "id": "178952",
+    "cargo": "Deputado Walter Alves",
+    "partido": "MDB",
+    "uf": "RN",
+    "voto": null,
+    "nome": "Walter Pereira Alves",
+    "mail": "dep.walteralves@camara.leg.br"
+  },
+  {
+    "id": "160518",
+    "cargo": "Deputado Weliton Prado",
+    "partido": "PROS",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Weliton Fernandes Prado",
+    "mail": "dep.welitonprado@camara.leg.br"
+  },
+  {
+    "id": "1173",
+    "cargo": "Senador Wellington Fagundes",
+    "partido": "PL",
+    "uf": "MT",
+    "voto": null,
+    "nome": "Wellington Antonio Fagundes",
+    "mail": "sen.wellingtonfagundes@senado.leg.br"
+  },
+  {
+    "id": "74043",
+    "cargo": "Deputado Wellington Roberto",
+    "partido": "PL",
+    "uf": "PB",
+    "voto": null,
+    "nome": "Jose Wellington Roberto",
+    "mail": "dep.wellingtonroberto@camara.leg.br"
+  },
+  {
+    "id": "5411",
+    "cargo": "Senador Weverton",
+    "partido": "PDT",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Weverton Rocha Marques de Sousa",
+    "mail": "sen.wevertonrocha@senado.leg.br"
+  },
+  {
+    "id": "74044",
+    "cargo": "Deputado Wilson Santiago",
+    "partido": "PTB",
+    "uf": "PB",
+    "voto": null,
+    "nome": "Jose Wilson Santiago",
+    "mail": "dep.wilsonsantiago@camara.leg.br"
+  },
+  {
+    "id": "204463",
+    "cargo": "Deputado Wladimir Garotinho",
+    "partido": "PSD",
+    "uf": "RJ",
+    "voto": null,
+    "nome": "Wladimir Barros Assed Matheus De Oliveira",
+    "mail": "dep.wladimirgarotinho@camara.leg.br"
+  },
+  {
+    "id": "74439",
+    "cargo": "Deputado Wolney Queiroz",
+    "partido": "PDT",
+    "uf": "PE",
+    "voto": null,
+    "nome": "Wolney Queiroz Maciel",
+    "mail": "dep.wolneyqueiroz@camara.leg.br"
+  },
+  {
+    "id": "160592",
+    "cargo": "Deputado Zeca Dirceu",
+    "partido": "PT",
+    "uf": "PR",
+    "voto": null,
+    "nome": "Jose Carlos Becker De Oliveira E Silva",
+    "mail": "dep.zecadirceu@camara.leg.br"
+  },
+  {
+    "id": "178889",
+    "cargo": "Deputado Zé Carlos",
+    "partido": "PT",
+    "uf": "MA",
+    "voto": null,
+    "nome": "Jose Carlos Nunes Junior",
+    "mail": "dep.zecarlos@camara.leg.br"
+  },
+  {
+    "id": "5783",
+    "cargo": "Senadora Zenaide Maia",
+    "partido": "PROS",
+    "uf": "RN",
+    "voto": null,
+    "nome": "Zenaide Maia Calado Pereira dos Santos",
+    "mail": "RUA DESEMBARGADOR ANTÔNIO SOARES, 1249. D. TIROL, NATAL, RN. CEP:59022-170"
+  },
+  {
+    "id": "204559",
+    "cargo": "Deputado Zé Neto",
+    "partido": "PT",
+    "uf": "BA",
+    "voto": null,
+    "nome": "Jose Cerqueira De Santana Neto",
+    "mail": "dep.zeneto@camara.leg.br"
+  },
+  {
+    "id": "3806",
+    "cargo": "Senador Zequinha Marinho",
+    "partido": "PSC",
+    "uf": "PA",
+    "voto": null,
+    "nome": "José da Cruz Marinho",
+    "mail": "sen.zequinhamarinho@senado.leg.br"
+  },
+  {
+    "id": "160632",
+    "cargo": "Deputado Zé Silva",
+    "partido": "SOLIDARIEDADE",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Jose Silva Soares",
+    "mail": "dep.zesilva@camara.leg.br"
+  },
+  {
+    "id": "204517",
+    "cargo": "Deputado Zé Vitor",
+    "partido": "PL",
+    "uf": "MG",
+    "voto": null,
+    "nome": "Jose Vitor De Resende Aguiar",
+    "mail": "dep.zevitor@camara.leg.br"
+  }
+]
