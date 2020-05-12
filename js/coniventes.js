@@ -175,7 +175,13 @@ let getcongressmen = function getcongressmen() {
 			parlamentares = data;
 			fuse = new Fuse(data, options);
 			updatecongressmencount(data);
-			buildcards(data);
+			let input = document.getElementById("search-input");
+			if (input.value) {
+				apply_fuse(input.value);
+			}
+			else {
+				buildcards(data);
+			}
 	  }).catch(error => {
 			console.log(error);
 	  });
@@ -205,6 +211,15 @@ let options = {
 };
 let fuse;
 
+let apply_fuse = function apply_fuse(pattern) {
+	let fusearr = fuse.search(pattern);
+	let pararr = [];
+	for (let i = 0; i < fusearr.length; i++) {
+		pararr.push(fusearr[i].item);
+	}
+	buildcards(pararr);
+}
+
 let register_searchinput = function register_searchinput() {
 	let input = document.getElementById("search-input");
 	let timeout = null;
@@ -212,13 +227,7 @@ let register_searchinput = function register_searchinput() {
     clearTimeout(timeout);
     timeout = setTimeout(function () {
 			if (input.value) {
-				console.log(`.${input.value}.`);
-				let fusearr = fuse.search(input.value);
-				let pararr = [];
-				for (let i = 0; i < fusearr.length; i++) {
-					pararr.push(fusearr[i].item);
-				}
-				buildcards(pararr);
+				apply_fuse(input.value);
 			}
 			else {
 				buildcards(parlamentares);
