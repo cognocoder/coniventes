@@ -51,38 +51,105 @@ let shuffle = function shuffle(array) {
 
 let parlamentares;
 
+let urlfotodeputados = "https://www.camara.leg.br/internet/" +
+	"deputado/bandep/pagina_do_deputado/";
+let urlperfildeputados = "https://www.camara.leg.br/deputados/";
+let urlfotosenadores = "https://www.senado.leg.br/senadores/" + 
+	"img/fotos-oficiais/senador";
+let urlperfilsenadores = "https://www25.senado.leg.br/web/" + 
+	"senadores/senador/-/perfil/";
+
 let buildcards = function buildcards(array) {
 	let main = document.getElementById("main");
 	let cards = document.getElementById("cards").remove();
 	cards = document.createElement("div");
 	cards.id = "cards";
 	
-	let card;
-	let data, position, info;
+	let card, data;
+	let type;
+	let position, info, mail;
+	let img, imgurl;
+	let linkpage, pageurl;
+	let linkmail;
+
+	let mailmessage = "?subject=" + 
+		encodeURIComponent("Deixe de ser Conivente") + "&body=" +
+		encodeURIComponent(`Vossa Excelência aprovaria a abertura um processo de
+			impeachment contra o Excelentíssimo Senhor Presidente da República Jair
+			Messias Bolsonaro?
+			\n\n
+			Acesse https://cognocoder.github.io/coniventes/html/responder.html para
+			responder e deixar de ser Conivente.
+			Utilize seu e-mail oficial e lembre-se, para não ser Conivente, é
+			necessário uma resposta afirmativa.
+			\n\n
+			https://cognocoder.github.io/coniventes/`);
 
 	for (let parlamentar of array) {
 		if (parlamentar.voto == "Sim") {
 			continue;
 		}
 
+		type = parlamentar.cargo.includes("Senador") ? "senador" : "deputado";
+		if (type == "senador") {
+			imgurl = `${urlfotosenadores}${parlamentar.id}.jpg`;
+			pageurl = `${urlperfilsenadores}${parlamentar.id}`;
+		}
+		else if (type == "deputado") {
+			imgurl = `${urlfotodeputados}${parlamentar.id}.jpg`;
+			pageurl = `${urlperfildeputados}${parlamentar.id}`;
+		}
+		
 		card = document.createElement("div");
 		card.id = parlamentar.id;
 		card.className = "col card";
 
+		img = document.createElement("img");
+		img.id = "img" + parlamentar.id;
+		img.className = "person-img"
+		img.onerror = () => { 
+			this.src = "https://www.camara.leg.br/tema/assets/images/foto-deputado-sem-foto-grd.png";
+		}
+		img.onclick = eval(`() => { 
+			document.getElementById("img${parlamentar.id}").src="${imgurl}";
+		}`);
+		img.src = "https://www.camara.leg.br/tema/assets/images/foto-deputado-sem-foto-grd.png";
+
 		data = document.createElement("div");
 		data.className = "person-data";
+		
+		linkpage = document.createElement("a");
+		linkpage.href = pageurl;
+		linkpage.target = "_blank";
 
-		position = document.createElement("p");
+		position = document.createElement("span");
 		position.className = "person-position";
 		position.innerHTML = parlamentar.cargo;
 
-		info = document.createElement("p");
+		info = document.createElement("span");
 		info.className = "person-info";
-		info.innerHTML = `${parlamentar.partido} (${parlamentar.uf})`;
+		info.innerHTML = 
+			`${parlamentar.partido} (${parlamentar.uf}) - ${parlamentar.nome}`;
 
-		data.appendChild(position);
-		data.appendChild(info);
+		linkmail = document.createElement("a");
+		linkmail.href = `mailto:${parlamentar.mail}${mailmessage}`;
 
+		mail = document.createElement("span");
+		mail.className = "person-mail";
+		mail.innerHTML = parlamentar.mail;
+
+		linkpage.appendChild(position);
+		linkpage.appendChild(document.createElement("br"));
+		linkpage.appendChild(info);
+
+		linkmail.appendChild(mail);
+
+		data.appendChild(linkpage);
+		data.appendChild(document.createElement("br"));
+		data.appendChild(document.createElement("br"));
+		data.appendChild(linkmail);
+
+		card.appendChild(img);
 		card.appendChild(data);
 
 		cards.appendChild(card);
@@ -123,16 +190,8 @@ function register_onclick() {
 }
 
 let options = {
-  // isCaseSensitive: false,
-  // includeScore: false,
   shouldSort: false,
-  // includeMatches: false,
-  // findAllMatches: false,
-  // minMatchCharLength: 1,
-  // location: 0,
   threshold: 0.2,
-  // distance: 100,
-  // useExtendedSearch: false,
   keys: [
     "cargo",
     "partido",
@@ -165,14 +224,6 @@ let register_searchinput = function register_searchinput() {
     }, 1000);
 	});
 }
-
-let urlfotodeputados = "https://www.camara.leg.br/internet/" +
-  "deputado/bandep/pagina_do_deputado/";
-let urlfotosenadores = "https://www.senado.leg.br/senadores/" + 
-  "img/fotos-oficiais/senador";
-let urlfotoerro = "https://www.camara.leg.br/tema/assets/images/" +
-  "foto-deputado-sem-foto-grd.png";
-let fotoext = ".jpg";
 
 window.onload = (event) => {
 	register_onclick();

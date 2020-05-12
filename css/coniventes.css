@@ -11,6 +11,14 @@ body {
 }
 
 header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: #ffffff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+#statistics {
   padding: 12px;
   padding-bottom: 4px;
 
@@ -24,7 +32,6 @@ a {
   color: #424242;
   font-weight: bolder;
 }
-
 a:hover {
   color: #9d2503;
 }
@@ -44,7 +51,6 @@ nav {
   height: 140px;
   max-height: 140px;
 }
-
 .col {
   width: 90%;
   max-width: 90%;
@@ -91,17 +97,18 @@ input[type=text] {
 
 tip {
   display: block;
+  padding-bottom: 4px;
   margin-bottom: 20px;
   text-align: justify;
   font-size: 10px;
 }
 
 .card {
+  display: flex;
+  margin-bottom: 24px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
   transition: all 0.3s cubic-bezier(.25,.8,.25,1);
-  margin-bottom: 24px;
 }
-
 .card:hover {
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
@@ -113,17 +120,42 @@ tip {
 }
 
 .person-data {
-  width: calc(100% - 48px);
-  text-align: left;
+  max-width: calc(100% - 48px);
   padding: 4px 12px 4px 12px;
-  border-left: 24px solid #424242;
+  display: inline-block;
+  
+  border-left: 12px solid #9d2503;
+  
+  white-space: nowrap; 
+  text-overflow: ellipsis;
+  overflow: hidden;
+  text-align: left;
+}
+.person-data > a {
+  text-decoration: none;
+  white-space: nowrap;
 }
 
 p {
   margin: 0;
 }
 
+.person-img {
+  width: 80px;
+  max-width: 80px;
+  height: 100px;
+  display: inline-flex;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  cursor: pointer;
+}
 .person-position {
+  font-size: 16px;
+}
+.person-info {
+  font-size: 10px;
+}
+.person-mail {
   font-size: 16px;
 }
 
