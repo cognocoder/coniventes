@@ -240,5 +240,8 @@ window.onload = (event) => {
 	register_onclick();
 	register_searchinput();
 	getcovidinfo();
+	setInterval(() => {
+		getcovidinfo();
+	}, 600000);
 	getcongressmen();
 }
