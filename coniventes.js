@@ -24,8 +24,8 @@ coniventes.onload = async function coniventes_onload() {
 	
 	Card.CreateFixed(fixo)
 	
-	Postman.CreateMailGroup("grupo-partidos", mail_lists["partido"], fixo)
-	Postman.CreateMailGroup("grupo-unidades-federativas", mail_lists["uf"], fixo)
+	Postman.CreateMailGroup("grupo-partidos", mail_lists["partido"], fixo.mail)
+	Postman.CreateMailGroup("grupo-unidades-federativas", mail_lists["uf"], fixo.mail)
 
 	Search.Create(parlamentares)
 	Search.Register(parlamentares, fixo)
