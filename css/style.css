@@ -61,6 +61,7 @@ a:hover {
 }
 
 summary {
+  padding: 1px 0 1px 1em;
   font-weight: bolder;
   cursor: pointer;
 }
@@ -160,7 +161,7 @@ ul.mail-list a {
   text-decoration: none;
 }
 ul.mail-list li {
-  padding: 1px 0 1px 14px;
+  padding: 1px 0 1px 3em;
 }
 ul.mail-list li:hover {
   box-shadow: var(--material);
@@ -168,4 +169,14 @@ ul.mail-list li:hover {
 
 #container {
   margin-top: var(--space-big);
+}
+
+button {
+  width: 100%;
+  margin: 0 0 var(--space-small) 0;
+}
+
+.field-sample {
+  border: solid 1px #424242;
+  padding: 4px 1em 4px 1em;
 }
