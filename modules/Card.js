@@ -87,10 +87,14 @@ async function CreateCards(list, fixed) {
   cards.id = "cards"
   for (let item of list) {
     Create(item, fixed)
-      .then(card => frag.appendChild(card))
+      .then(card => {
+        frag.appendChild(card)
+        if (frag.children.length == list.length) {
+          cards.appendChild(frag)
+          container.appendChild(cards)
+        }
+      })
   }
-  container.appendChild(cards)
-  cards.appendChild(frag)
 }
 
 export default { CreateFixed, CreateCards }
