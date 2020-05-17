@@ -83,12 +83,14 @@ async function CreateCards(list, fixed) {
   document.getElementById("cards").remove()
   let container = document.getElementById("container")
   let cards = document.createElement("section")
+  let frag = document.createDocumentFragment()
   cards.id = "cards"
   for (let item of list) {
     Create(item, fixed)
-      .then(card => cards.appendChild(card))
+      .then(card => frag.appendChild(card))
   }
   container.appendChild(cards)
+  cards.appendChild(frag)
 }
 
 export default { CreateFixed, CreateCards }

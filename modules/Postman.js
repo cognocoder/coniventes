@@ -19,6 +19,7 @@ function GetMailLink(to, cc, subject, body) {
 
 async function CreateMailGroup(node_id, list, fixed) {
   let node = document.getElementById(node_id)
+  let frag = document.createDocumentFragment()
   let text, link
 
   for (let key of Object.keys(list).sort()) {
@@ -32,9 +33,11 @@ async function CreateMailGroup(node_id, list, fixed) {
     let li = document.createElement("li")
     li.innerHTML = text
 
-    node.appendChild(a)
+    frag.appendChild(a)
     a.appendChild(li)
   }
+
+  node.appendChild(frag)
 }
 
 export default { GetMailLink, CreateMailGroup }
