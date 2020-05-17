@@ -122,6 +122,7 @@ summary:focus {
   top: 0;
   z-index: 1;
 
+  margin-top: var(--space);
   padding: var(--space) 0 var(--space) 0;
   background-color: white;
 }
