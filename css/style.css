@@ -10,7 +10,7 @@
   --font-size-bigger: 18px;
 
   --column-width: 90%;
-  --column-width-big-screen: 50%;
+  --column-width-big-screen: 384px;
 
   --material: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
 }
@@ -31,7 +31,7 @@ body {
   width: var(--column-width);
   margin-left: calc((100% - var(--column-width))/2);
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 462px) {
   .column {
     width: var(--column-width-big-screen);
     margin-left: calc((100% - var(--column-width-big-screen))/2);
@@ -51,6 +51,9 @@ header {
 
 article {
   margin: var(--space) 0 0 0;
+}
+details > p {
+  padding: 0 1em 0 1em;
 }
 
 a {
